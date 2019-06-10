@@ -2,7 +2,7 @@
 # number in the given list
 # of integers
 
-data = [3, 14, 7, 8, 1, 2, 4, 9]
+data = [3, 4, 7, 8, 1, 2, 4, 9]
 # "4" to be found
 
 seen = set()
