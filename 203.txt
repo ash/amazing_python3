@@ -1,0 +1,7 @@
+Here is a solution fo the following task: you need to find the number of all capital letters in the given string. It is assumed that the string is in English with no diacritics.
+
+If it is plain English letters, then you can find them using the regular expression: [A-Z]. Capture the letter with a pair of parentheses and store in a list (named "capitals" here).
+
+The length of the list will be the number of capital letters.
+
+#python #python3 #alphabet #programming #textprocessing #regexes #regex #regularexpressions #capitalletters #coding #interviewpython #pythoninterview

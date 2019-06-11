@@ -1,0 +1,7 @@
+There is a rectangular matrix (not necessarily square) of integers, and you need to transpose it. In other words, rows should become columns, and vice versa.
+
+It is possible to use some library functions from numpy, for example, but let's solve it without any extra libraries.
+
+The straightforward solution is to organise two nested loops and build the new matrix. It is also possible to use two nested list comprehensions, as shown in this solution.
+
+#programmingmatricies #matrix #rotatematrix #transposematrix #python #listcomprehension #functionalprogramming #coding #python101 #interviewpython #pythoninterview #rawpython
