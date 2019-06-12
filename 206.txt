@@ -1,0 +1,7 @@
+Task: remove all non-vowel characters from the given string and print it.
+
+The easiest way to do that is to use a regular expression containing a negative character class. That is a regex that matches everything which is not in the list: [^aeoiu]. Negation is marked with a ^.
+
+Here. to match capital letters, all they are simply listed next to the lowercase letters. This is fine when your list is short. Otherwise, use the re.I flag (together with re.M, which is needed by re.sub to repeat all occurances).
+
+#regex #importre #regularexpressions #textprocessing #pythontext #textmanipulation #programmingpython #python3 #programming #coding

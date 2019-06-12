@@ -1,0 +1,7 @@
+Task: A user enters a string that can represent a binary number (that is it only contains 1 and 0). Tell if the number format is correct.
+
+In other words, we need to test if there are any other characters in the given string, which are not 1 or 0.
+
+Take a simple regex [^01] and try to find at least one character in the given string that matches it. If so, the string does not represent a binary number.
+
+#regexes #pythonregex #binary #dataformat #stringpython #python3 #coding #programminginterview #interviewquestions #interviewcoding
