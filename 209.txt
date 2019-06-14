@@ -1,0 +1,7 @@
+In Python 3.8, you can use hte := operator to assign a value to a variable *inside* the expression. Be careful not to to surround the assignment with parentheses in some cases.
+
+In the example, the "str" variable gets a next string from the input file, and it is immediately compared with the stop word. Traditionally, you would use "break" to stop the loop.
+
+The operators is also caleld "walrus" because of its two tusks.
+
+#python3.8 #python38 #python3 #walrusoperator #programming #whatsnew #newinpython #studyprogramming #learnpython #teachpython #usingpython #pythoncode

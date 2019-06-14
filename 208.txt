@@ -1,0 +1,5 @@
+This is a continuation of the previous program. This time, the order of the operands around the custom "+" is reversed. It was "obj + 10", but became "10 + obj". 
+
+Python will not be able to process the second contruction unless you define another method, called "__radd__".
+
+#python3 #pythonclass #oop #methoddefinition #pythonobjects #redefineoperator #plusoperator #operands #programming #coding #pythoncode
