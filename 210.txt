@@ -1,0 +1,5 @@
+In Python 3.8, there's a new function in the "math" module: math.prod. It takes iterable data and computes the product of it. 
+
+As an example, here's another way of computing a factorial of an integer number.
+
+#product #mathprod #mathpython #pythonmath #science #pythonscience #python3.8 #python38 #python3 #python #programming #whatsnewinpython #pythonbyexample

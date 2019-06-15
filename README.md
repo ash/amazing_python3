@@ -4,6 +4,8 @@ In this repository, you'll find the source codes of bite-ready examples Python c
 
 ## Translations
 
+Italian: https://www.instagram.com/amazing_python_ita
+
 Portugese: https://github.com/carlosrabelo/amazing_python3_br
 
 If you want to translate the files to your language, you are very welcome to do that. Send a pull request to add a link to it.
