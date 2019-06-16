@@ -8,7 +8,6 @@ date_to = datetime.date(2019, 12, 31)
 
 diff = date_to - date_from
 print(diff)
-print(type((diff)))
 
 days = diff.days # diff in days
 print(days)
