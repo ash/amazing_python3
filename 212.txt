@@ -1,0 +1,7 @@
+To test if the year is leap or not, you can use a built-in library, "calendar".
+
+It contains the "isleap" function, which takes an integer value and returns either True or False.
+
+Test the program with different years, say, 2019 (not leap) and 2024 (is leap).
+
+#leapyear #isleap #calendar #pythoncalendar #datetime #python3 #python #programming #pythoncode #codingpython #usingpython #pythonlibrary

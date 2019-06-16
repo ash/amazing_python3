@@ -1,0 +1,5 @@
+Don't forget that to compute factorials you can also use the math.factorial function.
+
+By now, how many different methods do you know to calculate a factorial?
+
+#python #python3 #computing #programming #coding #pythoncode #interviewpython #pythoninterview #interviewquestions #mathpython #mathlibrary #algorithm
