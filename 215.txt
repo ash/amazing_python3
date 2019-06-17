@@ -1,0 +1,10 @@
+n = 12345
+r = int(str(n)[::-1])
+print(r)
+
+r2 = 0
+while n != 0:
+    m = n % 10
+    r2 = r2 * 10 + m
+    n //= 10
+print(r2)
