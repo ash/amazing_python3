@@ -1,0 +1,5 @@
+In Python 3.8, you can indicate that you want your function to only accept positional parameters (and thus disallow named parameters when calling a function).
+
+To achieve that, add a "/" after the list of parameters. In the first example, the function signature (a, b, /) allows two positional parameters. In the second example, (a, b, /, c), the first two parameters must be positional, while the third one can be passed via its name, as it is listed after the "/".
+
+#python38 #python3 #pythonsyntax #whatsnewinpython #positional #namedparameter #function #programmingfunctions #functionarguments #coding #programming #python101 #newpython
