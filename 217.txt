@@ -1,0 +1,5 @@
+A correction to the previous post.
+
+Here's the algorithm to compute the number of digits in a positive integer number using log10.
+
+#mathematics #computers #algorithms #programmingpython #python #python3 #interviewpython #pythoni terview #codinginterview #programminginterview #interviewquestions

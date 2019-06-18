@@ -1,0 +1,7 @@
+The task is to tell the number of digits in the given integer number.
+
+There are two simple solutions. The first is using the string representation of the number: the length of the string is the number of digits in the original number.
+
+The second method is based on mathematics. To get the number of digits, compute a logarithm (base 10) and round the result up. For the number 123456, its log10 is 5.09, thus the number of digits is 6.
+
+#mathematics #computers #algorithms #programmingpython #python #python3 #interviewpython #pythoni terview #codinginterview #programminginterview #interviewquestions
