@@ -1,0 +1,7 @@
+In this program, we are modifying the previous example to avoid repeated code. 
+
+First, a loop is used to enter the three values by the user. Second, the (s - a) * (s - b) * (s - c) product is replaces with map, prod, and lambda, which makes it more functional and require the code for "s - x" only once.
+
+The final code became a bit bigger and most likely a bit less readable than the previous one.
+
+#functionalprogramming #programmingstyle #transformingcode #python3 #python38 #coding #refactoring #pythoninterview #algorithm
