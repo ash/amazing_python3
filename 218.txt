@@ -1,0 +1,7 @@
+Here's a simple solution of a simple task: to calculate the area of a triangle if you are given the length of its three sides.
+
+The lengths of the sides are entered manualy, and the furmula to compute the area is hardcoded in the code.
+
+No loops or lampda are used in the solution, although it may be a good excercise to use them.
+
+#algorithm #python #python3 #pythontask #pythonquestion #interviewquestion #codinginterview #programming #coding #programminginterview #triangle
