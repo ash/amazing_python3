@@ -1,0 +1,9 @@
+The task is to count how many times each letter appears in the given text string. 
+
+The straightforward method would employ iterating over the letter and storing the number in a dictionary. A bit more tricky way is to immediately use hash comprehension and thus avoid the step of manual check of the key existance and key increment. 
+
+(You may be asked if using the "count" message is efficient here.)
+
+The second part is to print the letters and the number of their appearance. The dictionary is sorded based on its values (that's why the "key" parameter), and it is sorted backwards ("reverse").
+
+#algorithm #textprocessing #python #stringpython #python3 #pythontask #interviewproblems #pythonproblems #programmingchllenge #programming #codingchallenge
