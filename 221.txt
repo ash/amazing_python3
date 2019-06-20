@@ -1,0 +1,7 @@
+To understand recursion, it is a good practice to implement common functions using recursion, even if they can be implemented more efficiently without it.
+
+In this program, the recursive algorithm of adding up numbers in a list is implemented. If the list contains more than one element, then the sum of its elements is the sum of the first element and the sum of the others, which can be recursively computed by calling the function again.
+
+Notice that there is no single variable assignment in the whole program. This is a typical feature of functional programming.
+
+#recursion #functionalprogramming #python #fp #python3 #recursivealgorithm #algorithms #teachingpython #learningpython #programming #coding
