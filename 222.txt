@@ -1,0 +1,7 @@
+Creating a simple web server using the standard library. There is "http.server" module in Python 3, which has some functionality to build the server that lists the directory and browses files, etc. 
+
+This module is not recommended for production due to low security, but is a good thing to learn in class.
+
+The program stars a loop that runs a server on the port 5000 and listens to all IP addresses (localhost at least).
+
+#webserver #httpserver #socketprogramming #socket #python3 #clientserver #pythonserver #webprogramming #webdevelopment #programming #socketserver
