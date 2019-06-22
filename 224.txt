@@ -1,0 +1,9 @@
+An implementation of the Quick Sort algorithm in Python.
+
+In the algorithm, you take a list of data, choose a so-called pivot, and divide the data into two parts: the first part ("left") contains all items that are less than the pivot value, and the second part with all the other valeus.
+
+Then you recursively sort each part again, and combine the result as list of those three parts: "left", pivot, and "right".
+
+The choice of pivot is a separate theoretical question. The overall speed will depend on how well you choose it. In the given program, the pivot value is simply the first element of the data.
+
+#pivot #sortingalgorithm #sortdata #analytics #dataprocessing #knuth #donaldknuth #programming #interview #python #python3 #programminginterview #codingskills #quicksort #quicksortalgorithm
