@@ -1,0 +1,5 @@
+Another method of filtering (grepping) data, this time using a built-in function called "filter". You pass your own function to the filter, and that function decides whether to keep any given item in the result or not.
+
+Notice that "filter" returns an object of the "filter" type, so you have to manually convert it to the list if you need a list.
+
+#filtering #grepping #dataprocessing #bigdata #datahandling #python #pythonfunctions #datastructure #python3 #programming #effectiveprogramming #functionalprogramming

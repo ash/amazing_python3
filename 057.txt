@@ -1,0 +1,4 @@
+You can pass named arguments when calling the "format" method on a string. Give the temporary names to your placeholders and usem them directly in curly braces.
+
+#interpolation #strings #formattedstring #format
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

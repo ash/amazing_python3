@@ -1,0 +1,5 @@
+The "map" built-in function allows you to apply an arbitrary function to a list of data items.
+
+The function takes two parameters: the function and the data. In this example, f(x) computes the square of a single number. Map aplies it to every element of the "data" list and creates a new object of the "map" type, that you can easily convert to a list.
+
+#functionalprogramming #lambda #python #python3 #datatype #datacast #typecoersion #mapfunction #pythonmap #datamap

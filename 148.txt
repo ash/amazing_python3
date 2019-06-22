@@ -1,0 +1,3 @@
+When you have nested loops, the "break" statement stops the most inner loop. In other words, it stops that "for", which is closer to "break". In this example, the inner loop is completely skipped for x == 3, but when y is 3, then the outer loop continues.
+
+#loops #programming #python3 #python #breakstatement #forloop #coding #codingfun #codinglife #programminginpython

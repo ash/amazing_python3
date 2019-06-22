@@ -1,0 +1,5 @@
+The "re" module brings to you a whole new world of regular expressions. In this example, a number has been extracted from a text string. First, you apply a regular expression '\d+' to the string "str", then check if there were any results, and funally print the substring that matched. 
+In regular expressions, there are a lot of special characters such as \d. A bare \d matches a single digit (0...9). If you want to find more than one digit, add a "+" quantifier. Thus, "\d+" will both match "3", "42", or "72043". #regex #regulaexpressions #match #regexes #regexp #regulaexpression
+
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

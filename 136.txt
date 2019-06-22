@@ -1,0 +1,5 @@
+As any other class, custom exception can define a constructor and you can pass arguments to it when you create an object.
+
+In this example, the exception immediately prints a message that is passed when an exception is raised.
+
+#safeprogramming #objectorientedprogramming #exception #python #python3 #programming #safecode #coding #codinginterview #bestpractice

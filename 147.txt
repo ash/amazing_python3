@@ -1,0 +1,5 @@
+Conditional expressions in Python have a different philosophy comparing to other languages.
+
+You can use a statement inside the ternary operator. It means, you not only can pass a value from one of the two branches, but you can also directly execute some code as shown here in this example.
+
+#conditionalexpression #ternary #ifelse #python3 #programminginpython #oddoreven #codingvideo #statements #dev

@@ -1,0 +1,3 @@
+To get the size of a file, get the stat information for the given file by calling the "os.stat" method. It returns an object containing different information about the tested file. To get the size in bytes, read the "st_size" field.
+
+#statinfo #filesize #statdata #filestat #python #os #python3 #bytes #programming #devops #sysadmin #systemadministration #coders #development #ubuntu #unix

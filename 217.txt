@@ -1,5 +1,5 @@
-A correction to the previous post.
+An Armstrong number is the number, which has the following property. If you take all the digits from it, power them up to the length of the number (the number of digits), and add up, you get the number itself.
 
-Here's the algorithm to compute the number of digits in a positive integer number using log10.
+For example, take the number 153. Its length is 3, so add up the cubes of 1, 5, and 3. You get 153 again. So, 153 passed the check.
 
-#mathematics #computers #algorithms #programmingpython #python #python3 #interviewpython #pythoni terview #codinginterview #programminginterview #interviewquestions
+#armstrongnumber #mathematics #computerproblems #pythonproblems #interviewproblems #python #python3 #mathematical #codinginterview #coding #programming

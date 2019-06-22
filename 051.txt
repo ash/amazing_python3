@@ -1,0 +1,4 @@
+Using range to solve Problem 1 of Project Euler (projecteuler.net/problem=1). Find the sum of all numbers below 1000, which are multiple by 3 or by 5.
+
+#range #for #in #list #iteration #sequence #projecteuler #problem1 #multiple
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

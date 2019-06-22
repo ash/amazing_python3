@@ -1,0 +1,9 @@
+This program computes the value of pi using the Leibnitz series:
+
+π/4 = 1 - 1/3 + 1/5 - 1/7 + ... The more iterations you do, the better the result is. Compare the output of the same program with 10 million iterations in the loop.
+
+Of course, this is an excercise for implementing algorithms. In practice, use math.pi when you need the value.
+
+#leibnitz #mathematics #computations #pi #valueofpi
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

@@ -1,0 +1,7 @@
+When working with Boolean operators such as "or" and "and", be aware that if they are short-circuit operators.
+
+This means that if the result of the whole operation is known after evaluating the first operand already, then the second operand is not evaluated.
+
+In this example, the operands are function calls, which print a message when they are called.
+
+#shortcircuit #boolean #booleanlogic #logicaloperator #operatoror #operatorand #programmingpython #python #coding #logic #programminglanguage #coding #pythoncode

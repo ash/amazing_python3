@@ -1,0 +1,3 @@
+Decorators in Python are essentially functions that take another function and return a function (or a callable object). In this, not a real-world, example, the main function "some_function" was decorated by "my_decorator". When later in the main program code you call some_function(), the decorator was also triggered. Thus, the program first prints a message from the decorator, and only later executes some_function.
+
+#decorator #programmingpattern #python #python3 #coding #programming #computerscience #functions #programminglanguage #codinglife #codingdemo #pythondemo

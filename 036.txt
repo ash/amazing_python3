@@ -1,0 +1,4 @@
+Zero number or an empty string are treated as False in boolean context.
+
+#boolean #zero #empty #string #integer #if #ifelse #else
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

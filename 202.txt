@@ -1,0 +1,6 @@
+The task is to find the number, which appears twice in the given list of interger values. It is assumed that there is only one such number, and thus you can stop as soon as you found the first occurance of repeated value.
+
+Create an empty set, where you will store elements that you have already seen. Loop over the data and check if you saw the number already. If yes, then you are done and you can report about the duplicate. 
+After the end of the "for" loop, you can add the "else" clause to say that no duplicates were found.
+
+#python #python3 #interviewpython #programminginterview #findduplicate #algorithmpython #pythonalgorithm #codeinterview #interviewpractice #pythonpractice #usepython

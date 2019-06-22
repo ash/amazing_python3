@@ -1,0 +1,3 @@
+The "frozenset" data type is a built-in data type similar to "set". But unlike sets, you cannot modify a frozen set after its creation.
+
+#python #frozenset #dataset #datatype #workingwithdata #bigdata #python3 #programming #education #programmingcourse #python101

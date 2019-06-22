@@ -1,0 +1,3 @@
+In Python, you use the same "len" built-in function to get the "length" (whatever that means) of variables of different types.
+
+#len #variable #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

@@ -1,0 +1,4 @@
+The third parameter, the “step,” can be used on its own to select every Nth character from a string, for example.
+
+#range #string #substring #beginning #end #openrange
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

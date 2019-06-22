@@ -1,0 +1,5 @@
+A variation of the previous program that measures execution time of a piece of slow code. This time, a so-called decorator is used to surround the code of the slow function: the last line of the program does not mention "time_measure", but it will be still called by the compiler.
+
+#time #measuretime #slowcode #fastcode #designpattern #decoratorpattern
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

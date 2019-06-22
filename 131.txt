@@ -1,0 +1,5 @@
+Lists in Python can be used as a stack: you add data to the end of the list using the "append" method and take it back from the end using the "pop" method.
+
+In this program, a few numbers are appended in a loop first, and then read from right to left in another loop.
+
+#python3 #python #pythonprogramming #loop #array #stack #algorithm

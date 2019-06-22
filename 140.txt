@@ -1,0 +1,5 @@
+Here's another technique to remove duplicates from a list. This time, we make sure the order has been preserved.
+
+Again, a set is used to check if the value was already seen, and a loop scans the list from left to right, taking the values which were not seen yet.
+
+#python3 #array #listset #datatype #algorithm #programming #coding #funcoding

@@ -1,0 +1,4 @@
+Get an iterator of an iterable object using "iter", and then take its elements by calling "next". #iterator #iterable #iteration
+
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

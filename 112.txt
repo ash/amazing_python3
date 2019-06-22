@@ -1,0 +1,5 @@
+The loop variable keeps the last value after the loop is over. You may want to know about this behaviour, but it is better not to count on this in real programs.
+
+#loop #cycle
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

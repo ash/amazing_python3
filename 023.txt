@@ -1,0 +1,4 @@
+Using a range to extract a few characters from the middle of a string
+
+#range #string #substring
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

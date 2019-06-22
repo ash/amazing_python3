@@ -1,0 +1,7 @@
+In this example, the previous program is simplified. The task is to generate 20 *differnet* random integers.
+
+Here, the main property of the set data type is directly used: a set coinains each item only once. So, if the new generated random number equals to one of the previous numbers, the set will not change its size. We continue the loop until the length of the data set turns 20.
+
+#random #randomgenerator #randomnumber #setdatatype
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

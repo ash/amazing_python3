@@ -1,0 +1,4 @@
+If you want to create a tuple with a single element, you may use this trick to force the compiler to create a tuple.
+
+Use a trailing comma after the only element, and you get a tuple with a single element. 
+#tuple #listpython #datatype #pythontricks #pythontrick #python101 #python3 #python #pythoncode #pythonprogramming #learnpython #pythontutorial #pythonlessons

@@ -1,0 +1,3 @@
+Dumping a structured variable to a text file in JSON format. Notice that the interface of the library is the same as with the built-in "pickle" library.
+
+#json #pickle

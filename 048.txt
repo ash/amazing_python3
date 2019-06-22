@@ -1,0 +1,4 @@
+The "continue" keyword prevents the rest of the loop body from exution, and forces the loop to continue with the next iteration.
+
+#while #loop #for #iteration #iterate #else #codeblock #break #continue
+#python #python3 #development #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

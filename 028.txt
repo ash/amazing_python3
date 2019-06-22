@@ -1,0 +1,4 @@
+Use {} to create a set in Python. Notice that set "flattens" the data and you'll only get one piece of each value.
+
+#set #sets #datatype #setdatatype
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

@@ -1,0 +1,4 @@
+Quite a versatile keyword, "in". It can check if the character is in a string, or an element is in a list, or in a set. Also try it with dictionaries.
+
+#in #keyword #check #string #list #set #contains
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

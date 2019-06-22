@@ -1,0 +1,5 @@
+When you assign a variable to another existing list, you basically copy a pointer to the data. Thus, by using the new name you will also modify the old list.
+
+To make a new copy of the list, call the "copy" method. In this case, all the elements will be copied to the new list, and you can manipulate it independently from the original one.
+
+#listdata #datatype #python3 #programming #coding #algorithm #codepython #programminglanguage #pythonlanguage #dev

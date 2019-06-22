@@ -1,10 +1,5 @@
-import datetime
+To calculate the difference between dates, the easiest way is to just subtract the second date from the first one :-)
 
-date_from = datetime.date(2019, 1, 1)
-date_to = datetime.date(2019, 12, 31)
+Use the datetime.date function from standard library to create a date. The type of the "date_to - date_from" is <class 'datetime.timedelta'>. It gives the detailed difference up to seconds. To get only days, call the "days" method.
 
-diff = date_to - date_from
-print(diff)
-
-days = diff.days
-print(days)
+#python3 #python #datecalc #datetime #datedifference #howmanydays #programming #computing #calculating #codepython #pythoncode

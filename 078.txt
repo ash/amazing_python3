@@ -1,0 +1,5 @@
+Here's a non-recursive implementation of computing a factorial of a positive integer number.
+
+#function #factorial #recursion #computation
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

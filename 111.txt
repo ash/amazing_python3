@@ -1,0 +1,5 @@
+With the "items" method, you can iterate over both keys and values of a dictionary.
+
+#dictionary #iteration #keyvaluepairs #keyvalue
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

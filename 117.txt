@@ -1,0 +1,5 @@
+To see the location of the file with the imported module, use the __file__ property. In this example, a custom module located in the current directory has been imported. The mylib.__file__ construct returns the path to the module file.
+
+#module #filepath
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

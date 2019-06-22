@@ -1,0 +1,3 @@
+In Python, you can raise the "StopIteration" exception when you want the next call of "next" to fail. To catch the exception, use the "try" block.
+
+#pyhonexception #exception #trycatch #objectorientedprogramming #python #constructor #iteration #iterator #iternext

@@ -1,0 +1,5 @@
+To swap the two variable, use this simple trick and avoid using the third temporary variable.
+
+#variable #swapvalue #tuple
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

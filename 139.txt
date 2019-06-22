@@ -1,0 +1,4 @@
+To remove duplicate elements from a list, you can use a set, as sets can only contain each element only once. 
+Double conversion from list to set and from set to list removes duplicated elements from the source. Be aware that the order of the elements in the result can differ from original.
+
+#datastructure #programmingpython #python101 #programming101 #pythoncode #coders #programming #programmers #python3 #array

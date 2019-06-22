@@ -1,0 +1,2 @@
+The "set" data type in Python has the "difference" method. It returns the new set containing from the elements that are in the first set but are absent in the second. 
+Notice that a.difference(b) is not the same as b.difference(a). #setmethods #differnece #python #programming #datatype #algorithms #donaldknuth #coding #funcoding #betterprogrammer

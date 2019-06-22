@@ -1,0 +1,4 @@
+Using the same variable in more than one Boolean check? Don't forget that you can use notation, which is similar to mathematical: join all conditions to a chain.
+
+#if #chain #boolean #condition #else #ifelse #elif
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

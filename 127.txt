@@ -1,0 +1,3 @@
+With the "pickle" module (comes with Python), you can freeze your data objects to a file, and later read them back. A very handy method for saving different configuration settings or dump the current state of the program.
+
+#amazingpython #myownnewtag2

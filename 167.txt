@@ -1,0 +1,4 @@
+When working with text files, you can use the "writelines" method, which expects a list of text strings and writes them to a file. 
+It is important to remember that 1) you have to supply strings (not integers, for example) and 2) despite the method name, you will not get seaprate newlines in the output file. If you need to add the "\n" character at the end of the line, do it yourself.
+
+#writelines #io #pythonio #files #writingfiles #python3 #python #programming #textfiles #fileoperations

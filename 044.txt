@@ -1,0 +1,4 @@
+In Python, the "while" loop runs the loop body as many times as needed while the condition is true.
+
+#while #loop #for #iteration #iterate
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

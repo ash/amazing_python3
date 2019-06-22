@@ -1,0 +1,7 @@
+Here's another way of finding the missing number in a sequence of numbers from 1 to 10.
+
+This time, the number is found as a difference between the sum of all items in the given list and all items in the list that contains the missing number (which is a range from 1 to 10 in this case). To calculate the second sum, you can either make a direct calculation as sum(range(len(data) + 2)), or use the Gauss formula sum = n * (n + 1) / 2.
+
+You'd better also convert the result to an "int". This solution is inspired by the comment left by @bipin17228
+
+#interviewquestions #programmininterview #pythoninterview #codinginterview #python #python3 #sorting #datasearch #programming #coders #codingquestions #toppython #gauss

@@ -1,0 +1,6 @@
+When you call a function and you pass the same arguments again and again, it is wise to cache the results of the function so that the nexts time you call it it knows the result immediately. 
+You can do it with a hand-made dictionary or via a decorator, "lru_cache," from the "functools" module that comes with Python distribution.
+
+In this program, a factorial function is called twice with different arguments, but the second call still uses the cache, as factorial already was calculated for that smaller number.
+
+#factorial #cache #lru #lru_cache #functools #functionalprogramming #programming #python3 #cachingvalues #function #programmingfunctions

@@ -1,0 +1,3 @@
+There's no built-in ternary operator in some kind of a form "? ... :", but there is a so-called conditional expressions, where you can check the condition and offer two results that can be used in either situation.
+
+#conditionaloperator #ternary #ifelse #python3 #programminginpython #iteration #oddoreven #codingvideo #coding

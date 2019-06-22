@@ -1,0 +1,5 @@
+Let us explore random number generator in Python. This program generates some big number of random integers below 100. They are added to a corresponding bin of the histogram. In the end, in each histogram cell we should find more or less equal number of items.
+
+#histogram #distribution #randomnumbers #randint
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

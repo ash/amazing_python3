@@ -1,0 +1,5 @@
+In Python, you can use positional arguments together with their names, and thus make them named arguments. If you pass an argument with its name, the order is not imortant any more.
+
+#function #functionargument #namedargument #functioncall
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

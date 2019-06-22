@@ -1,0 +1,4 @@
+Let's check if it is daylight savings time (DST) at the moment. The "localtime" built-in function returns a structure that includes the "tm_isdst" field. Today it is "winter time" still.
+
+#localtime #dst #daylightsavingstime
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

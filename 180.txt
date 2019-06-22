@@ -1,0 +1,5 @@
+An example of using memcached in Python. Here, there are two scripts: one that writes some data, and the second which reads it.
+
+To run the example, make sure you install memcached and the pymemcache module for Python. Also, make sure you run the daemon and it listens at the default port 11211.
+
+#memcached #python #readwrite #datastorage #python3 #pymemcache #developer #webdeveloper #development #webdevelopment #serverside #caching #programming #programmer #pythoncode

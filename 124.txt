@@ -1,0 +1,5 @@
+In Python, you can create your own constructor and destructor for your classes. You do that by defining methods with the predefined names: __init__ and __del__.
+
+#objectorientedprogramming #oop #classpython #constructor #destructor
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

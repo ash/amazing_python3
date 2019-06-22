@@ -1,0 +1,4 @@
+In Python, you can use "*" to repeat the string N times.
+
+#string #star #asterisk #operator #repetition #concatenation
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

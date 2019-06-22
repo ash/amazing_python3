@@ -1,0 +1,6 @@
+In #Python, you can create your own #exception, and later raise them in different circumstances. 
+In this example, two custom exceptions are created. They both inherit from the built-in "#Exception" class but add nothing to it: thus the "pass" keyword.
+
+Then, a loop runs, and raises either ExceptionA or ExceptionB. The two different "except" clauses are used to react to its own type of exception.
+
+#trycatch #python #programmingexception #robustcode #cleancode #learnpython #learnprogramming #programminglanguage #programmingchallenge

@@ -1,0 +1,5 @@
+The "zip" built-in function takes a few lists (two in this example), and creates tuples by picking up elements from each list. The first tuple contains elements from the first positions in the lists, and so on.
+
+#zipfunction #tuple
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

@@ -1,0 +1,5 @@
+If you can return from a function early, just do it. It may not be following the classical way of programming algorithms, but in practice such code is often more readable and compact. In the given example, the "else" branch is removed.
+
+#function #factorial #recursion #computation #compactcode
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

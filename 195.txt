@@ -1,0 +1,5 @@
+This example demonstrates the main feature of polymorphic methods in OOP. We have a few classes, and a list of instances of those classes. Each class has the method named "talk", and that method is called for each object in the list.
+
+The great part is that even if the method name is the same, objects know how to call the method from the correct class. Thus, when x is a dog, the Dog.talk() method is called. When it is a cat, Cat.talk() is triggered. You do not need to store any extra information to distinguish between the object types.
+
+#classes #oop #objectorientedprogramming #polymorphism #python #python3 #programmingtheory #programming #oopfeatures #animallist #oop101

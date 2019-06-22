@@ -1,0 +1,3 @@
+Lists in Python have the "remove" method, which removes the first occurance of the given element. If you need to remove more, call the method again. Be careful, as after the last such object is gone, the method will raise an exception.
+
+#datastructure #python #python3 #programming #codinglife #codepython #easyputhon #python101 #pythontutorial #learnpython #pythoncode

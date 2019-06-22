@@ -1,0 +1,9 @@
+"List comprehensions" is a powerful technique in Python, although it may be a non-trivial for beginners.
+
+In line 7 of this example, we are creating a new list using list comprehensions. For each number in the range (0 to 9), the "f(x)" function is called, and the result is appended to the "data" list.
+
+After that, the generated values are printed in a human-readable format.
+
+#listcomprehensions #functionalprogramming
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

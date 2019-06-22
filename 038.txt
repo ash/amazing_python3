@@ -1,0 +1,4 @@
+If you are computing Booleans with "None", be careful as you can get "None" in result.
+
+#none #false #true #boolean #and #or
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

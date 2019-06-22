@@ -1,0 +1,5 @@
+Let us modify the previous "echo" program so that it does not generate an exception after you want to finish entering data. In the next version of the program, we are using the "try" block to surround the problematic code, and the generic "except" clause to catch it.
+
+#print #infinite #input #echoing #echo #tryexcept #exception
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

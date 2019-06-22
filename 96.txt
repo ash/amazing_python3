@@ -1,0 +1,5 @@
+This keyword, "yield", is maybe the least intuitive in Python. You place it where you would normally place a "return" in a function. But with "yield", the function can be converted into a generator object that keeps its state between calls. In the given example, the f() function returns (yields) another number from the range each time you call it. The next time you call it, the "i" variable continues from where it was last time.
+
+#iterator #iterable #iteration #yield #generator #generatorobject #functionalprogramming
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

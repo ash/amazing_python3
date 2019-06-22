@@ -1,0 +1,5 @@
+In Python, you can redefine the standard behaviour when converting objects to strings, e.g., when you are printing objects. What you need is to create your own version of the __str__ method in the class, and return a string from it.
+
+#class #oop #objectorientedprogramming #__str__
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

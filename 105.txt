@@ -1,0 +1,5 @@
+The "re.IGNORECASE" flag can be added as a third parameter to the "match" or "search" method to indicate that you want case-insensitive matching with the given regular expressions.
+
+#regex #regulaexpressions #match #regexes #regexp #regulaexpression #ignorecase
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

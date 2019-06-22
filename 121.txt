@@ -1,0 +1,7 @@
+Use the "json" module, which comes with the default installation of Python, to parse JSON files. In this example, the main job is done by the "json.loads" method. It gets the whole content of a text file, "test.json". If the JSON formatting is correct, you get the whole data structure back and save it in the "data" variable.
+
+To be more save, surround the JSON parsing code with a "try" block.
+
+#json #parsejson #pythonjson #jsonpython
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

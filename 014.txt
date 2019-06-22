@@ -1,0 +1,3 @@
+With ranges, you specify the index of the first character to copy and the index of the character followed by the last one you need.
+
+#substr #substring #range #indexing #character #string #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

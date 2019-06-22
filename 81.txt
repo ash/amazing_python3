@@ -1,0 +1,5 @@
+There is no built-in function in Python to check if the given number is a prime number, but it is easy to implement it yourself. The number n is not prime if there is such other number m (one or more) below n that you can divide n by m with no remainder. If you cannot find such m then the number is prime. The "not(n % m)" check returns True if n is divisible by m.
+
+#primenumber #isprime #is_prime #divisible
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

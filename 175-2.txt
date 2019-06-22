@@ -1,0 +1,5 @@
+In this program, the newlines are removed from all the lines in a list.
+
+To achieve the goal, a list comprehension is used. It loops through the items of the list and calls the "strip" method on each string.
+
+#strip #comprehension #listcomprehension #programming #python #python3 #py3 #codeexample #algorithm #datamanipulation #coolpython #amazingpython

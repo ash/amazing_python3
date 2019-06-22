@@ -1,0 +1,6 @@
+This program takes a list and for each item in it, prints the number of occurances. To make the output more compact, the list is first transfomed to a set, which helps to avoid repeated output lines. 
+The "count" method is defined for the "list" data type: for the given argument, it returns a number of repetitions of that value in the list.
+
+#listdatatype #setdatatype #countitems #countoccurences
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

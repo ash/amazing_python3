@@ -1,0 +1,4 @@
+If you wonder what's there inside sys.argv[0], here's the answer. This element contains the filename of the program. So, it's the 0th element passed to the Python interpreter.
+
+#commandline #arguments #parameters #sys #sysargv #argv #interpreter
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

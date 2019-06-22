@@ -1,0 +1,4 @@
+Lambdas (or inline functions) are very handy if the function body is short and simple. You don't need to create a full function using the "def" keyword. Use "lambda" instead, followed by the argument and the function body.
+
+#function #def #lambda #functional #functionalprogramming #inlinefunction
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

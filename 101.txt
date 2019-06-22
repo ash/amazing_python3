@@ -1,0 +1,5 @@
+The "with" keyword in Python allows you to simplify some code, as it will automatically call the __enter__ and __exit__ methods. When working with files, it means that the file will automatically be closed after leaving the "with" block.
+
+#file #openfile #writetofile #withfileopen
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

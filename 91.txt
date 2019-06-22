@@ -1,0 +1,5 @@
+An example of how you save data inside instances of a class using the "self" keyword to reference to the current object. Take in mind that cats and dogs can be split by using different classes, but we'll see that later when we'll be talking about inheritance.
+
+#class #oop #objectorientedprogramming
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

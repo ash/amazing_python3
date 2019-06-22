@@ -1,0 +1,4 @@
+Counting backwards in Python. Use the third parameter of the range function.
+
+#range #iteration #loop #backwards #counter
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

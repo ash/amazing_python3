@@ -1,0 +1,4 @@
+When working with class hierarchy, you may want to call a method of the parent class. You can access those methods with the help of the "super" built-in function. It needs two arguments: the child class name and the reference to the object. 
+In the simplest case, you call "super" and pass it the name of the same class you are in now ("Cat" in the example) and the object is "self". After getting the class, call a method you need.
+
+#oop #pythonoop #ooppython #objectorientedprogramming #classes #classpython #pythonclass #python3 #programming #development #objecthierarchy #classhierarchy

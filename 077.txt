@@ -1,0 +1,5 @@
+In Python, when you pass a list to a function, you pass it by reference. So modifying a list from inside that function will result in a modified list after you return from it.
+
+#function #listdata #passbyreference
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

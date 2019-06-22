@@ -1,0 +1,3 @@
+You can make more complex list comprehensions if you iterate over more than one list. In this example, the comprehension goes over the same number range twice and thus makes a table (similar to times table).
+
+#comprehension #listcomprehension #python #python3 #datastructure #generatingdata #pythonnumbers #programmingpython #codingpython #pythoncode #pythonprogramming #developer

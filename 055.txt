@@ -1,0 +1,4 @@
+You can use indices inside {} to indicate which argument of the format method to substitute at this place.
+
+#format #string #printf #sprintf #formattedoutput #stringformatting #fstring #placeholder
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

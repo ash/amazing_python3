@@ -1,0 +1,3 @@
+"Augmenting assignment" operator is a special assignment operator for the cases, where you have the same variable in the both parts of a regular assignment. It can be +=, or -=, or /=, or %=, etc. There is no ++ or -- operator in Python, though.
+
+#operator #assignment #augmented #increment #decrement #variable #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

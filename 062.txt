@@ -1,0 +1,3 @@
+Sometimes you need a variable only because either Python syntax requires it or a function returns two variables. If you are not going to use the variable, use a dummy one spelled as "_". #variable #dummyvariable #underscore
+
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

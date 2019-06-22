@@ -1,0 +1,4 @@
+Another example of the combination of "for" and "in", this time to iterate over characters in a string.
+
+#loop #for #in #cycle #iterating #string #str #character #char
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

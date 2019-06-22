@@ -1,0 +1,5 @@
+To extract more than one piece from a string using regular expressions, use captures. You create a capture with parentheses. In the example, there are three similar capturing groups "(\d+)", each taking the number from a date string.
+
+#regex #regulaexpressions #match #regexes #regexp #regulaexpression #parsedate
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

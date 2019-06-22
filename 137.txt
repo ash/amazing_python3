@@ -1,0 +1,5 @@
+After installing Python, you get not only a compiler but also a set of useful libraries (modules) that you can use in your programs.
+
+Here, the deque data type from the collections module is used to rotate a list: on each iteration, the data is shifted one step to the right, and the last element comes to the first position.
+
+#python3 #pythonprogramminglanguage #programmingisfun #pythonmodules #easycoding #pythoncoding #visualstudiocode #pythoncode #collections #deque #datatypes

@@ -1,0 +1,3 @@
+In Python, __name__ is a special variable that returns the name of the current module. In the case you run the code that you intend to use as a module from command line, the default module is "__main__". This trick allows you to check how the module file is used: as an imported code or if it is run from the command line.
+
+#python3 #testingcode #tdd #testdrivendevelopment #codinglife #coders #webdev #coding #programming #testingsoftware #testautomation #qualityassurance #qa

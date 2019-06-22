@@ -1,0 +1,5 @@
+Python uses common conventions as to escaping characters in strings. Such as \n which becomes a newline.
+
+But with the "r" prefix, you can create a so-called "raw string" that will not escape backslash-prefixed characters. With a raw string, you will see "\n" in the output as is: backslash and "n". #strings #escaping #stringescaping #rawstring
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

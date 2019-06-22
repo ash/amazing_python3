@@ -1,0 +1,4 @@
+String literal concatenation in Python allows you to write down a long string a series of quoted strings. 
+In this example, there are two options: either you have a few parts of the string on a single line of code, or you split it into multiple lines and end the lines with a backslash.
+
+#python3 #python #stringconcatenation #programming #codeeditor #vim #vscode #coding #bestpractice #programmer #howtocode #writingcode #howtowritecode

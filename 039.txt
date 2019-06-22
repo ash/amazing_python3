@@ -1,0 +1,4 @@
+If you happen to operate with "None", make sure you understand how Boolean operators are working. You may end up with different results if you change the order of operands, which is not the case with non-None values.
+
+#none #false #true #boolean #and #or
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

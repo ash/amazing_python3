@@ -1,0 +1,10 @@
+In Python, you can add a description of a function. Use tripple quotes and put the documnetation strings right after the header of the function. To print the description, use the __doc__ method.
+
+def my_f(x): '''This function returns
+a doubled value
+of its argument''' return x * 2
+
+print(my_f.__doc__)
+
+#documentation #strigns #description #codedocumentation #documentingcode #codecomments #commentingcode #comments
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

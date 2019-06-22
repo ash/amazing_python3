@@ -1,0 +1,3 @@
+And another solution of the same task (removing newline characters from the strings in a list). This code is based on the previous one, but instead of stripping a string in a separate function it uses an inline lambda.
+
+#datatype #string #processingstring #textprocessing #python #python3 #programming #coding #development #it #itcode #programme #program #lambda #functionalprogramming #closure

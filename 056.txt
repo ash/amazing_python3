@@ -1,0 +1,4 @@
+When you create a range, you specify the two edges and the step. To generate every second number, make the step 2.
+
+#range #sequence #generator #step
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

@@ -1,10 +1,7 @@
-n = 12345
-r = int(str(n)[::-1])
-print(r)
+Two ways of solving a task in Python. The task is to flip an integer number, i.e., get 54321 from the number 12345.
 
-r2 = 0
-while n != 0:
-    m = n % 10
-    r2 = r2 * 10 + m
-    n //= 10
-print(r2)
+The first method is rather Perlish, and it uses string representation of the number. The number is converted to string, read from right to left using a slice [::-1], and is converted back to an int.
+
+The second method is more straightforward. It takes the last digit from the original number using a modulo division by 10, and adds it to the result. The previous result is multiplied by 10, while the original number is divided by 10 until all digits are consumed (that is, five iterations for a five-digit number like 12345).
+
+#python #stringinteger #integer #datatype #reversestring #workingwithstring #textprocessing #pythontextmanipulation #python3 #textmanipulation #programming #computing #algorithm #pythoninterviewquestion

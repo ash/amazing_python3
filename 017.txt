@@ -1,0 +1,3 @@
+Using the "input" built-in function to read from the user input (STDIN). #input #stdin #whatisyourname #userinput
+
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

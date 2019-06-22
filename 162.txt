@@ -1,0 +1,4 @@
+The "id" built-in function returns a unique integer corresponding to the given object. (By object you can also mean simple variables such as strings or integers, not necessarily instances of classes.) In this example, two objects of some simple class are created. Thus, o1 and o2 are different objects. But the third variable, o3, points to the already existing object o2. 
+In the output, you can easily see that the last two ids are the same.
+
+#objectid #python #python3 #pythonprogramming #pythonfunction #idfunction #identityfunction #identity #program #development

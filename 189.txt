@@ -1,0 +1,5 @@
+This is a continuation of the previous program. This time, all occurances of the given elements ('beta' in this case) are removed from the list. The order of the other elements has been preserved.
+
+In this solution, list comprehension with a condition is used. A new list is formed using the original elements. Those elements which are not 'beta', go the the new list.
+
+#filter #grep #listcomprehension #python3 #python #programming #codepython #pythoncode #coding #coders #coder #development #it

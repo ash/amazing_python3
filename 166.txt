@@ -1,0 +1,7 @@
+The "filter" built-in function is a handy tool to walk along a list and select only those items that pass the condition.
+
+As a condition, you can use a function taking one argument and returning a Boolean value.
+
+Notice that you get an object of the "filter" class and you need to convert it to a list if you need a list.
+
+#filter #grep #programming #algorithm #functionalprogramming #pythonfunctions #python3 #pythonfunction

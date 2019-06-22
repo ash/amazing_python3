@@ -1,0 +1,4 @@
+Be careful with indentation in Python. Accidentally, you can end the "if" block and return to the outer scope, as demonstrated in this example.
+
+#indentation #ws #whitespace #if #condition #comparison #ifelse #else
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

@@ -1,0 +1,7 @@
+If you have to apply the same regular expressions many times, consider compiling it upfront to make the whole program faster.
+
+In this exmaple, which continues the previous one with counting Unicode digits, the regex is first used 100,000 times in a loop, and then it is compiled once before entering the loop.
+
+The program became two times faster after that simple step.
+
+#compiler #compileregex #regex #regexes #regexp #regexps #regularexpressions #regularexpression #python #python3 #unicode

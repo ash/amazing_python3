@@ -1,0 +1,5 @@
+Closures in programming are functions that at some moment "caught" the value of some parameter passed to its creating function.
+
+In this example, two closures have been created: one to calculate squares, another to calculate cubes. Both use the same function "power" beneath.
+
+#closure #lambda #functionalprogramming #fp #usingpython #python3

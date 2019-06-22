@@ -1,0 +1,3 @@
+Map comprehension in Python is a handy way to fill the dictionary with some regular data. In this case, we are creating an ASCII table, where the keys are ASCII codes and the values are the corresponding characters.
+
+#ascii #unicode #mapcomprehension #comprehension #python #python3 #dictionary #datatype #asciitable

@@ -1,0 +1,4 @@
+To read from command-line arguments, use the sys.argv list.
+
+#commandline #arguments #parameters #sys #sysargv #argv
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

@@ -1,0 +1,4 @@
+In recent versions of Python, you can use another form of strings interpolation, the so-called f-strings. Prefix a string with "f" and use curly braces to encluse the variable name inside the string.
+
+#format #string #printf #sprintf #formattedoutput #stringformatting #fstring
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

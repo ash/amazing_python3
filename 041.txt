@@ -1,0 +1,4 @@
+Here's the "for" loop, and we are using "in" to loop over all its elements.
+
+#loop #for #in #cycle #iterating
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

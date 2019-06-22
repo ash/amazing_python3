@@ -1,0 +1,4 @@
+A very simple but very useful method of measuring the time spent by a slow piece of code in your program. Here, the two timestamps are taken: one before and one after the slow function. The difference between them is the time in seconds that we want to know (ignore any possible tiny additions caused by the operating system, multitasking, etc.). #time #measuretime #slowcode #fastcode 
+
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

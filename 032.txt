@@ -1,0 +1,3 @@
+Saving an if condition in a temporary boolean variable (no need in this example, but we can check the type of the variable, which is "bool"). #bool #boolean #if #condition #comparison #ifelse #else
+
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

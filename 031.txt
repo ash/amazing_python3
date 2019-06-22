@@ -1,0 +1,4 @@
+To split a string into characters, convert it to a list, and you'll get a list of separate characters. Of course, you can access individual characters directly by indexing a string.
+
+#string #list #conversion #typecast #typeconversion #character #indexin
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

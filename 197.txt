@@ -1,0 +1,3 @@
+Here is a simple solution of a task of getting all numbers and words from a given string.
+
+In both cases, regular expressions are used to extract the parts (and preserve the order from the original string). To get all occurances, use "re.findall". For digits, \d+ is used. For words, a character class containing all letter, both small and capitals, is applied: [a-zA-Z]. #regexes #regex #regexp #regularexpression #python #textprocessing #python3 #re #wordsnumbers #programming101 #interviewquestions

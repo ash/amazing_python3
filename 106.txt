@@ -1,0 +1,5 @@
+To get data from the web, you can use the "requests" library that comes with Python. You can also use other libraries such as urllib, but in this example we'are using requests to get the content of the file on GitHub. Notice that you get a byte literal in the end.
+
+#urllib #requests #textfile #fetchweb #crawler #webcrawler
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

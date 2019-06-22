@@ -1,0 +1,5 @@
+Bubble sort explained in one minute.
+
+You've got unsorted data, and you have to sort them. In the bubble sort, you scan the data from left to right a few times, and check if the two adjacent elements are ordered correctly. If not, you swap them. The loop repeats untill there are no more elements that are ordered incorrectly.
+
+#sortproblem #bubblesort #algorithm #sortalgorithm #programming #quicksort #python3 #interviewquestions #sortingalgorithm #sorting #programminginterview #sortpython

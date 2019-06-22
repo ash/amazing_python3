@@ -1,0 +1,4 @@
+Write a caption... To reverse a string, walk along it with the step "-1" from right to left.
+
+#range #string #substring #reverse
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

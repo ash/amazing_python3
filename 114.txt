@@ -1,0 +1,4 @@
+This code demonstrates the so-called list comprehension. On lines 8 and 9, the new list is being formed. You instruct Python how to compute the elements of the new list (by adding up the corresponding elements of the two initial lists) and repeat the procedure for each position in the original lists (assuming they are equally long). #listcomprehension
+
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

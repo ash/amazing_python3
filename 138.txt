@@ -1,0 +1,5 @@
+This program removes accents from the accented letters such as é or ü.
+
+One of the simplest ways to do that is to use a module "unidecode". It does not come with default Python distribution but can be easily installed using pip.
+
+#unicode #accentedletters #python3 #programmingunicode #unicodeprogramming #unicodesupport #pythonunicode #textprocessing #processingtext #pythontext #pythoncode

@@ -1,0 +1,7 @@
+To detect if the number if odd or even, you can use the modulo ('%') operator. The result of the modulo division "n % 2" is either 1 or 0. If the number is even, then it can be divided by 2 with no remainer, thus "n % 2" is 0. If the number is odd, the result is 1.
+
+The "f" prefix in the printing instructions is turning on the so-called f-strings, available in Python 3.
+
+#oddeven #datatype #modulo #division #fstring
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

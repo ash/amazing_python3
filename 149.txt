@@ -1,0 +1,5 @@
+A star placed before the name of a function argument makes it greedy :) and it allows you to pass more than one argument at a time. Inside the function, you work with the argument as with a list.
+
+In this example, the same function "my_f" is called with one, two, and three agruments. The function reports the number of arguments passed ("len(args)") and prints all of them one by one.
+
+#args #arguments #functions #programming #python3 #python #codingart #programmer #coder #variadic

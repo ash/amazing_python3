@@ -1,0 +1,5 @@
+An example of using a class-level variable to count how many objects of this class were created. In the class' constructor, we increment a class-level counter Item.counter, and copy its value to an instance-level attribute, self.counter. This particular object will thus keep that number independently of other created objects.
+
+#class #oop #objectorientedprogramming #counter #objectfactory
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

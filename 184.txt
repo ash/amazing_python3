@@ -1,0 +1,3 @@
+Before talking about actual normalisation in Unicode, let's see at how the German "ß" can be compared with its equivalent sequence "ss" (let's omit the tiny grammatical differences that may occur). Use the "casefold" string method, which not only converts the string to lowecase but also take care of converting ß to ss. 'Straße'.casefold() leads to 'strasse'
+
+#straße #python3 #convertcase #caseconversion #casefold #uppercase #lowercase #unicode #ascii #german #python #pythonprogramming #development #localizing #localising #localisation #localization

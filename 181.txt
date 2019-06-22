@@ -1,0 +1,5 @@
+If you add more than one decorator to the function, they will be applied from the last to the first.
+
+You can treat a decorator as a function wrapping your function (which, actually, decorators are), and thus when you wrap with another wrap, you naturally get the call order from the most deeply nested first.
+
+#decorator #programming #python3 #programmingpattern #patterns #codepython #pythoncode# decorators #pythondecorator #decoratorpython #developers #coding #coders

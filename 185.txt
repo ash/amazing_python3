@@ -1,0 +1,3 @@
+In the Unicode, "complex" characters can be represented either by their direct code points (if they exist) or by a sequence of a character modified by combining characters (such as acute). To compare strings encoded differently you need to normalize them first. Use the "normalize" function from the "unicodedata" module, as shown in this example.
+
+#canonical #normalization #unicode #ascii #nfc $nfcform #characters #python3 #python #stringmanipulation #encoding #utf8

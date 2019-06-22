@@ -1,0 +1,4 @@
+Creating a function in Python. Use the "def" keyword, give a function a name and list its arguments.
+
+#function #def #
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

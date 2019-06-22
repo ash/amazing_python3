@@ -1,0 +1,5 @@
+In Python, the same list can keep elements that belong to different data type.
+
+Here in this example, a number, a string, a complex number, and later an instance of a class are appended to the same list.
+
+#datatype #pythonprogramming #class #objects #complexnumber #numbers #programming #python3 #python

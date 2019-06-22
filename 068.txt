@@ -1,0 +1,8 @@
+To iterate backwards in Python, either use a range with step = -1, or a "reversed" built-in function:
+
+for x in my_list[::-1]: print(x)
+
+for y in reversed(my_list): print(y)
+
+#reversed #iteration #backwards #loop
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

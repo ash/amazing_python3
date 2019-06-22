@@ -1,0 +1,5 @@
+In normal coding practice, you would use "min" and "max" built-in functions to find the minimum and the maximum values in the given data list.
+
+However, if you are forced to use to implement the algorithm yourself, here is the answer. Scan the data and check if the current value is less or more than the currently found min and max values.
+
+#minimum #maximum #algorithm #knuth #interviewquestions #programmininterview #pythoninterview #codinginterview #python #python3 #sorting #datasearch #programming #coders #codingquestions #interview101

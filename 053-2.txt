@@ -1,0 +1,4 @@
+Use more than one placeholder in a string if you need to interpolate more than one variable. Prefer the style you like the most. C programmers are familiar with the %s syntax from the well-known printf function. But you may also use the OOP style and call the format method on a string.
+
+#format #string #printf #sprintf #formattedoutput #stringformatting
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

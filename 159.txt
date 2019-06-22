@@ -1,0 +1,5 @@
+The "for" loop can be equipped with the "else" clause, that will be execeuted if the loop ends normally.
+
+In the given example, the loop is broken with the "break" command, and the "else" clause is not activated.
+
+#python3 #ifelse #break #elseclause #forloop #forelse #programming #algorithm #programmintips #pythontips #codingtips #coding #developmnet #dev

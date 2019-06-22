@@ -1,0 +1,3 @@
+Comparing the / and // operators in Python. In Python 3 and (recent) Python 2.7 they can behave differently.
+
+#division #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

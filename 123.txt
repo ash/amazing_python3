@@ -1,0 +1,7 @@
+The "with" keyword implicitly wants to call the __enter__ and __exit methods for the object in hand. In this example, the only method of the "C" class that you call is "some_work", but as soon as you put this call inside the "with" block, Python will call __enter__ first, and __exit__ when the block is executed.
+
+For a class that you define, you thus need to provide these two methods if you are going to use "with". Notice that the __exit__ method requires four parameters; maybe you do not need the last three at the moment.
+
+#objectorientedprogramming #oop #classpython
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

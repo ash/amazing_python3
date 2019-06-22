@@ -1,0 +1,7 @@
+This progams gets a string and prints a list containing the ASCII numbers of each character in that string.
+
+Here, the built-in "ord" function is used to convert a character to its ASCII value.
+
+To make the code simple, list comprehension is utilised.
+
+#comprehension #ascii #programmingpython #python #python3 #codepython #pythoncode #python101 #simplepython #easypython #development

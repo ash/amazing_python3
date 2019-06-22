@@ -1,0 +1,5 @@
+Here is an exampe of a straightforward algorithm of generating a set of different random numbers. Even with a good generator of random numbers, if you are picking numbers from a limited set (just 100 numbers in this example), there's a chance to generate the same random number again. In this example, a set is used to keep already collected numbers and to check if the new one is already known.
+
+#random #randint #randomnumbers
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

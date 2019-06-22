@@ -1,0 +1,3 @@
+Using the save variable to keep data of different types. Printing the type of the currently hosted data.
+
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #datatype #variable #type

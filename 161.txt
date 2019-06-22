@@ -1,0 +1,5 @@
+The "pprint" module gives you a "Pretty Printer", which is a handy tool if you want to print a big data structure and have it readable in the output.
+
+In this program, the printer is configured to have the maximum output of 1, which forces a given dictionary to be printed line by line.
+
+#keyvalue #prettyprinter #pprint #datastructure #python #python3 #programminginpython #pythoncode #bettercoding #amazingpython

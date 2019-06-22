@@ -1,0 +1,4 @@
+In Python, you can return more than one value from a function. Let us see how that works on the example of solving a square equation that can return two roots.
+
+#function #def #squareequation #equation #math #sqrt
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

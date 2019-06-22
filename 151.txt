@@ -1,0 +1,5 @@
+In Python, you can use ** before the name of the argument of a function to make it a dictionary that will collect all the named arguments passed to that function.
+
+In this example, we first print the type of "args" to make sure it is a "dict", and then loop over all key-value pairs and print them.
+
+#keyvalue #loop #programming #python3 #python #functioncall #function #coding #codingtutorial #pythontutorial

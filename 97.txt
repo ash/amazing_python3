@@ -1,0 +1,5 @@
+You can create more than one generator object, and the great part of that is that they behave independently. In this example, which extends the previous one, two generator objects, g1 and g2, are using the same function f(), and produce independent sequences of numbers.
+
+#iterator #iterable #iteration #yield #generator #generatorobject #functionalprogramming
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

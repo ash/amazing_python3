@@ -1,0 +1,5 @@
+Sometimes you need a function that assumes two arguments equal if only one is passed. You can use a trick with having "None" as the default value, and later decide how to evaluate the missing parameter if you really see None passed.
+
+#function #functionargument #namedargument #functioncall #defaultargument #none
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

@@ -1,0 +1,3 @@
+Normally, a character prefixed with a backslash is a special character such as a newline \n or a tab \t.
+
+In so-called raw strings, backslash has no special meaning. You prefix raw strings with 'r'. #rawstring #strings #programming #python #python3 #escaping #programmer #learningprogramming #codeacademy #codetutorial #developer

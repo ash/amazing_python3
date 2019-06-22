@@ -1,0 +1,4 @@
+The "assert" keyword can be used to check the input data for validity. If the assert condition is not true, the program quits with the "AssertionError" exception (if you did not catch it). #function #assert #assertion #dividebyzero #assertionerror #division
+
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

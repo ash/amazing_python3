@@ -1,0 +1,4 @@
+Identifier names (names of the variables and functions, for example) are case-sensitive in Python. You can use different styles, but the best seem to be the first two.
+
+#variable #identifier #hungariannotation #variablename #camelcase
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

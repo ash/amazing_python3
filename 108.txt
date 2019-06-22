@@ -1,0 +1,5 @@
+In Python, there are two comparison operators: "==" and "is". The "==" one is for checking value equality, while "is" is for checking reference equality. Constant integers are comparable by either check. Empty lists are not. The a and b variables are pointing to differnet objects.
+
+#== #is #equality #value #reference #equivalence
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

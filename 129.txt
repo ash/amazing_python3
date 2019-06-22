@@ -1,0 +1,3 @@
+The two methods, keys() and values(), return, respectively, the keys and the values of a dictionary in Python. The good thing to remember is that you can expect that the keys and the values come in coordinated order.
+
+#dictionarypython #keys #values #datastructure

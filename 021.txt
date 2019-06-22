@@ -1,0 +1,4 @@
+In Python, there are lists (arrays) and tuples. Learn the difference between how they are created. Later you'll see what is different when you use them.
+
+#list #tuple #array #variable #datatype
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

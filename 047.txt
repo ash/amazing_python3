@@ -1,0 +1,4 @@
+Write a caption... The "break" keyword stops currently executing while loop and Python returns to the code following the "while" loop.
+
+#while #loop #for #iteration #iterate #else #codeblock #break
+#python #python3 #development #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

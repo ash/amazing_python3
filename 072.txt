@@ -1,0 +1,4 @@
+When a function returns more than one value, make sure to read all of them, as if you accidentally take a single value, you will get that value containing a tuple, not a single value.
+
+#function #returnvalue #tuple
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

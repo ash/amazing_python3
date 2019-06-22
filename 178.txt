@@ -1,0 +1,3 @@
+Iterating over a dictionary in Pythnon is iterating over its keys. Instead of "for in in data.keys()" you can simply type "for x in data" and omit the method call.
+
+#dictionary #datatype #iterator #iteration #looppython #python #python3 #programming #programmer #pythoncode #development

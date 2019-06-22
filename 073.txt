@@ -1,0 +1,4 @@
+In Python, you can use a built-in function "reversed", which will return a new list with reversed data, or call a .reverse() method, which will modify the original list and return it.
+
+#reverse #reversed #listdata
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode

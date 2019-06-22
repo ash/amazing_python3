@@ -1,0 +1,4 @@
+The "+" opeartor behaves differently depending on the type of its operands. With numbers, it adds them up; with strings, it concatenates them.
+
+#operator #plus #plusoperator #concatenation #addition
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

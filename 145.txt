@@ -1,0 +1,3 @@
+When working with dictionaries, make sure you are trying to read an exising key. Otherwise, either use a "try" block or call the "get" method. If the key is missing, it returns "None". In the second parameter, you can pass a default value that will be returnd if there's no key.
+
+#dictionaries #python3 #programmingpython #pythoncoding #coding #coders #datastructure #defaultvalue

@@ -1,0 +1,7 @@
+In Python 3, you mostly don't have to care about the encoding of text strings, if you work with UTF-8.
+
+To get a length of the string in characters, use the "len" built-in function.
+
+To get a length in bytes, explicitly convert the string to UTF-8 and get its length.
+
+#convert #ascii #unicode #stringlength #utf8 #utf-8 #python3 #python #textdata #encoding #latin1

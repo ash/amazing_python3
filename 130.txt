@@ -1,0 +1,5 @@
+In a "try" block, you can use the "finally" keyword to write some code that will be executed in any case, would the exception happen or not.
+
+The subtle difference between using the "finally" keyword and placing some code right after the "try" block is that you can be sure that the "finally" block is excecuted, while the code after the "try" block can be skipped if, for example, you leave the routine in either the "try" or the "except" branch.
+
+#exception #pythonexception #tryblock #finallyblock

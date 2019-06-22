@@ -1,0 +1,6 @@
+The "sys" module in Python can give you some information about the operating system and Python you are currenting working with. 
+In this example, the general platform name and the version of currently running Python.
+
+#system #operatingsystem
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

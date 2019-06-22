@@ -1,0 +1,7 @@
+If you need to convert all strings in a list to integers, use the built-in "map" function. It will call a given function ("int" in this case) for all elements in the data list, and create a new list based on the results of calling "int"s.
+
+In this example, the program reads user input (which is string-based), keep the values in the "data" list, and then converts the whole list at once to another list - a list of integers.
+
+Alternatively, you can immediately call int(input()). There is no check for the cases when input strings cannot be converted to numbers.
+
+#input #strings #integers #datatype #typecast #typeconversion #programming #python #python3 #codingpython #pythoncode #interviewpython #codinginterview

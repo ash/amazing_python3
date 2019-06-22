@@ -1,0 +1,7 @@
+To print to the standard error stream (stderr), all you need is to import the "sys" module and call the sys.stderr.write method.
+
+If you run it from console, you can see the output unless you redirect it to a file, for example.
+
+#system #stderr 
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

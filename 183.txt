@@ -1,0 +1,3 @@
+Each character has its name in the Unicode space. To get the names, use the "name" function from the "unicodedata" module (comes with the Python distribution).
+
+#unicode #ascii #unicodedata #characters #unicodechar #unicodecharacter #python #python3 #textprocessing #coding #encoding #utf8 #utf-8 #codepython #pythoncode

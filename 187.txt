@@ -1,0 +1,3 @@
+Integers (or the objects of the "int" class) have a method to get the number of bits that are needed to represent the integer in binary code. Call bit_length to see it.
+
+#longnumber #bignumber #integers #bytes #python3 #python #binary #binaryrepresentation #arbitrarylength #longlong #bit_length #memorystorage #memory #bits #bytes

@@ -1,0 +1,4 @@
+Simple string formatting using the old style with % formatters and the new style with the call of "format" method.
+
+#format #string #printf #sprintf #formattedoutput #stringformatting
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

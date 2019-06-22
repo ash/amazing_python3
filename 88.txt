@@ -1,0 +1,5 @@
+When working with modules, be careful not to mix names in your local progam with the names coming from modules. In this example, there are two definitions of "f(x)", one in the main file and another in a module. You import the name from the module, and refer to it as "f" and not "mylib.f", which makes conflicts.
+
+#importmodule #module #pythonmodule #function #namespace
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

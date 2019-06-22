@@ -1,0 +1,6 @@
+Iterators can be directly used in a "for" loop. In this example, we are creating a class that can be used for counting objects. The object keeps its ranges, and returns an incrementing value each time the "next" call is implicitly applied to it.
+
+The example demonstrates a trivial case of incrementing integers, but you may think of a more complex behaviour.
+
+#python #iteration #iterator #loops #forloop #stopiteration #programminginpython #pythoncoding
+#objectorientedprogramming #objectpython

@@ -1,0 +1,4 @@
+In Python, a string that contain literal zero is still a True value.
+
+#string #boolean #zero #if #emptystring
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

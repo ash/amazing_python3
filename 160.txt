@@ -1,0 +1,3 @@
+The "dir" built-in function allows you to see all the methods that your class or an object has. In the given example, you can find "mymethod" in the output, but together with a lot of other implicit methos that Python creates for you, including different constructors, destructors, etc.
+
+#python #introspection #python3 #methods #objectorientedprogramming #oop #coding #programming #programmer #developer #directory #listmethods

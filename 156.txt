@@ -1,0 +1,7 @@
+In this program, we are looping over a range of Unicode characters with the codepoints between 32 (space) and 10,000. Each character is then tested against a regular expression \d, which only matches digits.
+
+But digits in the Unicode are far beyond the ten familiar digits between 0 and 9. You can find more than 500 other characters (with the codes above 10,000, too), which are also digits.
+
+To limit the regex to work only in the ASCII subspace, add the re.ASCII flag.
+
+#regularexpression #regulaexpressions #python #python3 #regex #regexes #re #programming #coding #matchign #textmatch #strings #numbers #unicode #ascii

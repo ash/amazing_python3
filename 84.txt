@@ -1,0 +1,5 @@
+Reading a text file line by line and printing it. Notice that the lines from the file will contain the newline characters, so if you need to print it, it is wise not to print another copy of newline that "print" will do without the "end" argument.
+
+#textfile #file #openfile #readfile
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

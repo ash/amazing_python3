@@ -1,0 +1,3 @@
+Let's solve the previous task or removing "\n" from a list of stings using the built-in "map" function. "map" requires a function that takes one argument and returns one argument. Here, we define our own function "strip" that simply calls the "strip" method on the string.
+
+#datatype #string #processingstring #textprocessing #python #python3 #programming #coding #development #it #itcode #programme #program

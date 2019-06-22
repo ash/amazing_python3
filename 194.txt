@@ -1,0 +1,5 @@
+To check if the path exists, you can use the "os.path.exists" function from the "os" module.
+
+This function works with both files and directories and returns a Boolean value.
+
+#fileexists #direxists #ospath #osmodule #pythonos #python3 #devops #sysadmin #programming #coding #files #workwithfiles #filestructure #hdd

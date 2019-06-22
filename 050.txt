@@ -1,0 +1,4 @@
+Use the "range" type to create a range of numbers between its left and right edges. Notice that the right edge is not included.
+
+#range #for #in #list #iteration #sequence
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

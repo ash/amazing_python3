@@ -1,0 +1,3 @@
+Let's sove a classical task of printing the first Fibonacci numbers. In Python, you can effectively use tuple assignment and change the two variables in a single line. Isn't that amazing?
+
+#python #python3 #interviewquestions #programminginterview #fibonacci #fibinaccinumbers #sequences #programming #coding #programming101 #tuple

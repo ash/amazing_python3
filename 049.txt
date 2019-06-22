@@ -1,0 +1,3 @@
+When you have a block, where Python expects an indended code, you can use the "pass" statement to fill the gap. (Or just comment the condition out.) #while #loop #for #iteration #iterate #else #codeblock #break #continue #pass
+
+#python #python3 #development #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

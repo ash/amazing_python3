@@ -1,0 +1,4 @@
+When using if-elif-else, make sure the conditions will not be confclicting.
+
+#if #condition #comparison #ifelse #else #elif #elsif #elseif
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

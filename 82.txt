@@ -1,0 +1,5 @@
+A combination of input() and print() in the infinite loop gives you a program that copies every line it gets from the user.
+
+#print #infinite #input #echoing #echo
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

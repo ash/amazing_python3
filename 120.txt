@@ -1,0 +1,5 @@
+The pair of built-in functions, "all" and "any" will check if the elements of the list are either all True, or there's at least one ("any") True value.
+
+#boolean #true #false #truefalse #allany
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython

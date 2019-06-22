@@ -1,0 +1,4 @@
+Simplifying @pcondemandotcom's Python program to draw random coloured lines using the Turtle library.
+
+#turtle #pythonturtle #pythondrawing
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

@@ -1,0 +1,3 @@
+Use a built-in function "enumerate" if you need to loop over a list and you also want to know the index of each element inside the iteration loop. The function returns two values, the first being the index (starting with 0), the second being the item from the list.
+
+#enumerate #loops #programming #python3 #programminglanguage #algorithm #usingpython #forloop

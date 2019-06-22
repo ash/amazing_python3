@@ -1,0 +1,4 @@
+Iterating over a dictionary using "in" in Python returns you the keys of the dictionary on each iteration. Use standard syntax to get the value in the loop body.
+
+#loop #for #iteration #iterate #dict #dictionary #in #keyvalue #key #value #pair
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

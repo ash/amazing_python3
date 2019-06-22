@@ -1,0 +1,1 @@
+To count characters from right to left, use negative indices. For instance, to get the last character, index it as [-1]. #last #backwards #indexing #character #string #python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

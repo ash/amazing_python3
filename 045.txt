@@ -1,0 +1,4 @@
+In Python, you can add the "else" block after a "while" loop. It will be executed after the loop is over.
+
+#while #loop #for #iteration #iterate #else #codeblock
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

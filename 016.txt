@@ -1,0 +1,4 @@
+Use the functions, whose names are the names of the corresponding data types, to convert the value in a variable to a different type.
+
+#type #typecast #cast #convert #str #int #typeconversion
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding

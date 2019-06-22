@@ -1,0 +1,4 @@
+Continuing the previous example, here is the case when the "else" block is still executed even if the main code block is skipped because of the initially false condition.
+
+#while #loop #for #iteration #iterate #else #codeblock
+#python #python3 #devlopment #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #coderslife

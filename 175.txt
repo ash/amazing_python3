@@ -1,0 +1,4 @@
+A minimalistic example of using the "async" keyword in Python 3.5+. First, you define a function with the "async" keyword (thus, "async def f()"). If you call such function via f(), you will get an object of the "coroutine" type. 
+To run your coroutine, use the "run" function from the "asyncio" module.
+
+#async #parallelism #concurrency #asyncio #programming #parallelprogramming #computing #python3 #python #codepyton #pythoncode

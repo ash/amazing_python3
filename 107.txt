@@ -1,0 +1,5 @@
+In Python, you can use one of the two methods of creating empty objects: using language's syntax and by calling a constructor function, whose name is the name of the data type. The only exception is creating an empty set, there is no syntactic sugar, and you use "set()" instead.
+
+#empty #integer #string #dictionary #list #set #datatype
+#python #python3 #development #developer #programming #it #coding #program #programmer #programminglanguage #code #coding #pythonprogramming #pythoncode #software
+#softwaredeveloper #geek #computers #learntocode #learnpython
