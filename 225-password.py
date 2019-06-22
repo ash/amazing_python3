@@ -3,6 +3,7 @@
 
 import getpass
 
-pwd = getpass.getpass('You pwd: ')
-print(pwd) # just to check that
-# it works :-)
+pwd = getpass.getpass('Your pwd: ')
+
+print(pwd) # just to check if 
+# that works :-)
