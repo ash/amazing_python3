@@ -1,0 +1,5 @@
+If you want to ask a user to enter a password, you may want not to use the standard "input()" function. The thing is that it echoes user's input, while the password is a thing that the user most like don't want to show.
+
+To hide the input, use the "getpass" module that offers the "getpass" function.
+
+#password #enterpassword #userinput #ux #python #python3 #programming #coding #userdata #enteringdata #keyboard #console
