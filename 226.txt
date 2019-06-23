@@ -1,0 +1,3 @@
+The "tempfile" module helps to create a temporary file for storing some temporary data. In this example, the main code creates a temporary file, writes to it, and then passes the file handle to the function "read_data", where you can read it.
+
+#tempfile #temporaryfile #filestorage #python3 #python #programming #caching #algorithms #coding #development #programmingpython #pythoncode
