@@ -1,0 +1,3 @@
+To generate the so-called Universally unique identifiers, or UUID (sometimes called GUID), just import the module "uuid" and call its "uuid4" function. You get a string containing a new UUID each time you call it.
+
+#uuid #guid #randomnumber #randomgenerator #randomnumbergenerator #uuid4 #uuid1 #python #python3
