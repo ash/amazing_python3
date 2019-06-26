@@ -1,0 +1,5 @@
+Regular expressions can help to clean the text and remove double spaces from it. In this program, a simple regular expression \s{2,} is used to find sequences of one or more spaces. You can use \s+, but it will replace single spaces too, which is fine and gives the same result, but is definitely redundant.
+
+The "r" prefix before the regex string informs Python about the raw-string, thus backslashes will not have special meaning in the string (but they will do in the regex itself).
+
+#regex #regularexpressions #python #textprocessing #python3 #textmanipulation #texteditor #beautifytext #textpython #programming #codinginterview

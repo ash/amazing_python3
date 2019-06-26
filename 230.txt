@@ -1,0 +1,3 @@
+This program prints the words from the sentense in reversed order. It first splits the text by space, then reverses the list and finally joins it with a space separator.
+
+#textprocessing #python #python3 #programming #interviewquestions #python #python3 #pythontext #pythoncode
