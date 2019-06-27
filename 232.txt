@@ -1,0 +1,7 @@
+Here's a simple calculator that takes two operands (the numbers 3 and 4 in this example), and a character that represents an operation.
+
+All actions, corresponding to the arithmetical operations, are collected in a dictionary. Each operation has two operands (x and y), and is coded as a lambda function.
+
+The main calculator function ("calc") finds the operation and executes it by calling a function from the "ops" dictionary.
+
+#calculator #compilers #yacc #programming #programmingtas #parsingcode #parsing #python3 #python #coding #development #interview #pythoninterview #programminginterview
