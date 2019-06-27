@@ -1,4 +1,4 @@
-# Catchign "Ctrl+C"
+# Catching "Ctrl+C"
 
 c = 0 # counter
 
