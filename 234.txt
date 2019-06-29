@@ -1,0 +1,5 @@
+To determine the dimentions of an image, you can use the PIL library (install it with "pip install pillow").
+
+The solution is pretty straightforward: open the image, and ask for its size. You get a tuple of (width, height) in pixels.
+
+#imagesize #python3 #pillowmodule #pythonpil #pythonpillow #pillow #imageprocessing #python #programming #coding #development 

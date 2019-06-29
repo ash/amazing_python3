@@ -1,0 +1,5 @@
+If you have a long-running Python script and you press Ctrl+C to stop it, your program gets an exception of the KeyboardInterrupt type.
+
+Instead of stopping the program, you can make some actions to handle the exception. In this example, the program prints the current value of the counter and only then exits.
+
+#keyboardinterrupt #exception #interruption #irq #programming #hardware #software #python #ctrlc

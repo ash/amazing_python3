@@ -1,0 +1,5 @@
+If you have any experience with C, you might know that to multiply an integer number by 2, 4, 8, etc. is more efficient by shifting the number to the left by 1, 2, 3, etc. bits. 
+
+Probalby, you will never need this trick in Python, but it would be nice to know that such things exist :-)
+
+#optimization #binarycode #binary #computers #programming #cpp #clanguage #clang #coding #python #python3 #programminginterview
