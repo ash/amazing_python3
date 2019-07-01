@@ -1,0 +1,5 @@
+When designing a function with default parameter values, be careful as the default value is calculated only once.
+
+In this example, the "f" funciton is called three times, but its parameter gets the same value again and again. The default value was calculated once, and all function calles get the same value.
+
+#defaultparameter #functions #programming #defpython #python3 #python #randomvalue #coding #interviewquestions #pythoninterview

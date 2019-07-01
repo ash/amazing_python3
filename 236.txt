@@ -1,0 +1,3 @@
+A program to find the average value of the data list. Be careful when running the program with Python 2. You will need to convert the length to a floating-point value first, as otherwise the "/" operator will perform an integer division.
+
+#python3 #python2 #python #average #mathematics #analytics #statistics #numpy #calculations #programming #coding #interviewquestions #pythoninterview
