@@ -1,0 +1,5 @@
+If you need to find the item in a list, which is located in the middle of it, you can use the "median" function from the "statistics" module in the standard library.
+
+If there the number of the elements is odd, then you will get a mean value of the two central items.
+
+#statistics #computation #analytics #python #numpy #pythonmodules #median #medianvalue #average #middle #python3 

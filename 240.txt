@@ -1,0 +1,7 @@
+It is also possible to use fractions in your Python programs. Not just floating-point numbers, but real fractions with numerator and denominator.
+
+Use the "fractions" module from the standand library and create the objects of the "Fraction" type.
+
+As shown in the example, Python keep both numerator and denominator instead of converting a number to a floating-point number.
+
+#arithmetics #fraction #numerator #denominator #pythonmodules #calculations #precise #precision #python3 #pythonstandardlibrary #development #interviewquestions #programmingworld

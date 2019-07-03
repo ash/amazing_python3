@@ -1,0 +1,5 @@
+In this example, you can see how to create a fraction from a decimal number, which is in its turn is created from some floating-point number of pi.
+
+Python will try to create the most accurate fraction, which in this case will contain many numbers both in numerator and denominator. You can ask for fewer digits and get, for, example, a classical approximation of pi = 22/7.
+
+#approximation #fraction #numerator #denominator #python #python3 #calculations #arithmetics #mathematics #valueofpi #pi #programming #coding

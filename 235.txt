@@ -1,0 +1,7 @@
+One of the important qualities of the random number generator is that it generates numbers equally distributed in the given range. You can quickly check it.
+
+Generate many random numbers and distribute them to seaprate bins of a histogram. For example, if you generate numbers between 0 and 1000, make 10 cells and put all numbers below 100 to the first cell. 
+
+In the result, you should see that in every histogram cell you have more or less equal number of elemenets. If that is so, your random number generator generates uniform distribution.
+
+#randomnumbers #randomgenerator #random #python3 #science #statistics #pythonstats #programming #analytics #pythoncoding #codingpython #python #coding
