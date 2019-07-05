@@ -1,0 +1,3 @@
+To compare files, you can use the "filecmp" module with its function "cmp". Its usage is straightforward: pass the names of the two files and get a Boolean result.
+
+#filecmp #files #workingwithfiles #comparefiles #programming #python #pythonmodules #python3 #coding #development #codinginterview

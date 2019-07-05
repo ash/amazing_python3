@@ -1,0 +1,7 @@
+There's the "linecache" module in the standard library, that offers a very handy function "getline". You can use the function to retrieve the Nth line from a text file. (Lines count from one, not from zero.)
+
+The module claims to use cache if you access the same file more than once.
+
+Needs Python 3.5+.
+
+#pythonsources #textprocessing #textfile #python #python3 #python38 #pythonprogramming #programming #coding #codingpython #easypython #python201
