@@ -1,0 +1,3 @@
+To print the name of the day today, use the formatting method "strftime", which is similar to C's sprintf but works with dates and times. The '%A' format takes the week day from the date object and prints it as a string.
+
+#printdayname #weekday #python #python3 #datetime #pythondatetime #programming #codinginterview #python101 #programming #coding #pythoninterview

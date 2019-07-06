@@ -1,0 +1,5 @@
+The Monte Carlo method is a statistical method that allows to compute the value of pi. We know that the area of a circle with radius 1 is pi * r ** 2. 
+
+In the loop, a random point is placed on a square with the sizes of 2 by 2. If the point happens to be inside the circle, the counter is incremented. In the end, the value of pi will be proportional to the portion of the points inside the circle comparing to the total number of generated random points.
+
+#computing #valueofpi #pi #programming #numericalmethods #statistics #montecarlomethod #programming #python
