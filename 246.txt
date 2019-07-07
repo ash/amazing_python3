@@ -1,0 +1,7 @@
+In this program, you have to guess the number between 0 and 10 that Python genrated using random.randint.
+
+There are two infinite loops: the first one goes over games, the inner one gives different guessing attempts.
+
+To stop the program, just hit Enter: in this case, the input cannot be converted to an integer, and Python raises an exception.
+
+#guessthenumber #guessnumber #programming #programming101 #knuth #python #python3 #learnpython #learningpython #computers #coding #interviewpython
