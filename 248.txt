@@ -1,0 +1,5 @@
+Use the "inflect" module to spell a number. The module does not come with the default Python installation, so you have to install it yourself using "pip":
+
+pip3 install inflect
+
+#pip3 #inflect #spellnumber #programmingtasks #python3 #python #spelling #computers #development #coding #codinginterview
