@@ -1,0 +1,5 @@
+This is how you can count the number of non-zero bits in a binary representation of a positive integer number.
+
+First, convert a number to a '0b...' string. Second, count the number of characters "1".
+
+#binary #numbers #python #python3 #interviewquestions #pythoninterview #python101 #programming #programminginterview #program #codinginterview #cs
