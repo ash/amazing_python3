@@ -1,0 +1,5 @@
+There are a few ways to make a list, where all the elements are bigger by one comparing to the previous state of the list.
+
+Here is one of the examples that uses list comprehension. It takes each element, adds 1 and repeats for the rest of data. In the end, the new list is assigned back to the same variable.
+
+#listcomprehension #pythonprogramming #pythontricks #python3 #codingpython #programming #coding #lambda #functionalprogramming

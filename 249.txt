@@ -1,0 +1,5 @@
+To shuffle or randomize a list of values (whould be strings or numbers), you can use the "shuffle" function that is available in the "random" module from the standard library.
+
+Notice that data shuffling happens in-place, so the original list will be modified after the function call.
+
+#randomdata #shuffle #python #python3 #randmomize #random #programming #datastructure #coding #dev 
