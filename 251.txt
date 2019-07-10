@@ -1,0 +1,5 @@
+Here's another way of incrementing all elements of a list of integers. This time, using the "map" function and lambda functions. 
+
+In recent versions of Python, the "map" function returns an object of the "map" class, and you need to convert the result to a list yourself.
+
+#mapgrep #listprocessing #functionalprogramming #fp #programming #coding #python #python3 #interviewpython

@@ -1,0 +1,7 @@
+You have two lists of integers. You need to get the third list, where every element is the sum of corresponding elements from the two lists.
+
+This task can be solved with a loop, or with a map as shown here. As "map" needs a function, we can use the wrapper from the "operator" module that is available in the standard library.
+
+The same code works if the elements of the lists are strings, for example, In that case, the resulting list will contain concatenated strings.
+
+#concatenation #integers #datastructure #python #programming #functionalprogramming #maplist #operators #pythonoperators #coding #algorithms
