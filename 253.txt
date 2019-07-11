@@ -1,0 +1,7 @@
+The "sort" method has a named parameter, "key", which you can use to sort complex data, where the sorting parameter is located a bit deeper then in, say, list of integers.
+
+In the given example, we are sorting the list of dictionaries describing people, and we want to sort them by age. 
+
+The "key" paramer gets a lambda function, that takes a dictionary (into "p") and returns the age from it.
+
+#sorting #sortalgorihtms #algorithm #python #pythonprogramming #coding #python3 #pythoninterview #dev #it
