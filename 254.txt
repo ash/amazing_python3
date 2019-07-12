@@ -1,0 +1,7 @@
+The Sieve of Eratosthenes is an algorithm to make the list of prime numbers.
+
+The essence is that you pass over the list (1 to 100 in our case) and cross out the numbers with the given step p, starting at 2. On the next iteration, you increase p to the first uncrossed yet number bigger than p, and repeat until you have no values left.
+
+Instead of crossing out the elements, they are assigned to zero here in this program. The zeros are removed later using "filter".
+
+#eratosthenes #sieveoferatosthenes #algorithm #algorithms #python #knuth #programming #coding #interviewquestions #interviewprogramming #programminginterview #pythoninterview
