@@ -10,5 +10,5 @@ while p < n / 2:
         if s[i] > p:
             p = s[i]
             break
-s = list(filter(lambda x: x != 0, s))
+s = list(filter(lambda x: x != 0, s[1:]))
 print(s) # done :-)
