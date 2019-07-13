@@ -1,0 +1,7 @@
+Suppose you have a list of lists of integers, and you need to select all inner lists that contain at least one negative number.
+
+To detect if a list of integers contains negative numbers, you can simply compute its minimum value using the built-in "min" function. (In the case sublists are long, it's better to use a loop instead.)
+
+Then you create a new list and select wanted lists in a list comprehension.
+
+#listcomprehension #min #negative #datastructure #pythoninterview #interviewpython #python #pythonquestions #pythontask #programminginterview 
