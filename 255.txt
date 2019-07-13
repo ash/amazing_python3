@@ -1,0 +1,3 @@
+Converting a list of tuples to the list of list can be done using list comprehension. For each item in the original list (the items are tuples), a corvesion is done via the "list" function. The new list is returned and saved in the "data2" variable.
+
+#python #listcomprehension #pythoncomprehension #python3 #dataprocessing #datastructure #coding #programming #pythoninterview #interviewpython
