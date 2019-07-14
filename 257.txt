@@ -1,0 +1,5 @@
+This prgogram checks if the parentheses are balanced in a string. It goes through the characters from left to right, and increments the counter if it sees an opening '(', or decrements the counter if it is a closing ')'.
+
+It may happen that the parentheses are balanced but "inversed", as in ")test(", for example. In this case, the counter will become negative at some point, and that's an indication to immediately return False.
+
+#programming #interviewquestions #python3 #python #computerscience #development #coding #codininterview #algorithms #algorithm #knuth
