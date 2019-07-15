@@ -1,0 +1,5 @@
+Currying is a term from functional-oriented programming. It is refered to the functions which return other functions. This program demonstrate a simple example, when inner "b" function does some calculation, but the outer "a" function returns not just the result of it, but the whole function "b".
+
+Thus, when you call a function, you get another function, and you can call it too. That's why you have two pair of parentheses in "a(3)(4)". 
+
+#functionalprogramming #fp #programming #pythonfp #python #python3 #programmingcode #functionalcode #currying
