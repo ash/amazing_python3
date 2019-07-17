@@ -1,0 +1,7 @@
+In this program, two methods of splitting a word into letters are shown.
+
+In the first method, you just call the "list" function and convert a string to a list, which ends up with a list of characters.
+
+In the second method, you use list comprehension to loop over the characters in a string ("ch in word") and collect them to a list.
+
+#listcomprehension #textprocessing #wordletters #convertion #python #pythontext #textpython #python3 #programming #python101 #codinginterview
