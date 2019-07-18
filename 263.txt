@@ -1,0 +1,3 @@
+In Python, the same operator can behave differently with data of different types. In this example, a multiplication operation is applied to numbers, a string, and a list. With numbers, regular arithmetics works. With strings and lists it will be repeating the data and concatenating or appending it.
+
+#datastructure #python #python3 #python101 #pythondatatype #datatype #programming #coding #development
