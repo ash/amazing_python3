@@ -1,0 +1,3 @@
+This program extends the previous one and adds a delay in the main function after the task is created. An unpleasant thing is that the "myf" coroutine does not start until the main function is complete. To avoid this, add the "await" instruction. This this case, the task will be started immediately. Notice that the delay in the main function will be added to the total time of program run.
+
+#concurrency #python #pythonawait #asyncpython #async #asyncronous #programming #parallelprogramming #coding #parallel #concurrent #pythoninterview
