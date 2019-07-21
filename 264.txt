@@ -1,0 +1,5 @@
+This program create an asyncronous subroutine. In the main function, a task is created, and the main code continues running immediately after that. The coroutine, "myf", contains a two-second delay, and thus is executed later. When running the program, you can also see, that the main event loop waits for the coroutine to be completed, and only after that the main program is terminated.
+
+This code requires Python 3.7+.
+
+#parallelprogramming #concurrentprogramming #python #coroutine #pythonthreads #python3 #python38 #python37 #codinginterview #parallel101 #programming #coding
