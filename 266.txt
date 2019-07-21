@@ -1,0 +1,7 @@
+Python's standard library offers the "random" module, which is quite versatile. For example, it can generate random numbers distributed normally. That means, that if you collect statistics, you will see the bell-shaped probability of the generated numbers.
+
+In this example, a hunderd thousand numbers are generated, and they are collected to the 10 bins of a histogram. The numbers are distributed in such a way so that their mean value is around the value of 10, and the standard deviation (sigma) is 2. In other words, the most numbers will be around 10, and the further from 10, the less random numbers will be generated.
+
+In the output, you can see the amount of numbers that fall to the corresponding bin of the histogram. You should see the peak in the middle, and the bell-shaped envelope around it.
+
+#random #generator #randomnumbers #python #python3 #gaussian #gaussrandom #uniformdistribution #statistics #probability #programming #computing
