@@ -4,4 +4,6 @@ The essence is that you pass over the list (1 to 100 in our case) and cross out 
 
 Instead of crossing out the elements, they are assigned to zero here in this program. The zeros are removed later using "filter".
 
+UPDATE: change "s" to "s[1:]" in the last-to-the-end line to exclude 1 from the result list.
+
 #eratosthenes #sieveoferatosthenes #algorithm #algorithms #python #knuth #programming #coding #interviewquestions #interviewprogramming #programminginterview #pythoninterview

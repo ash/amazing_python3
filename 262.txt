@@ -1,0 +1,3 @@
+To rotate an image, use the Pillow (PIL) library. Open an image, rotate it and display. Sounds simple. The only thing to notice is that "img.rotate()" does not change the original image but returns a new one.
+
+#rotateimage #imageprocessing #pythonimaging #python #pil #pillow #pythonpillow #python3 #programming #programmingpython 

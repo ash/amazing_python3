@@ -1,6 +1,7 @@
 # Currying in Python
 
 # What you want to achieve:
+# result = a(3)(4)
 
 def a(x):
     def b(y):

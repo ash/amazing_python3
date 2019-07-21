@@ -1,7 +1,8 @@
 # Check if the parentheses are balanced
 e = [
     '()', '((', '(Hello, (World))',
-    ')Hello(', 'Right)', 'Le()ft', '(()))()'
+    ')Hello(', 'Right)', 'Le()ft',
+    '(()))()', '(((()', ')('
 ]
 
 def is_balanced(str):

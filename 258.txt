@@ -1,0 +1,5 @@
+Another method of transforming a list of tuples to the list of lists.
+
+This time, the "map" function is used. For each element of the "data" list, the "list" function is called. The "map" function returns an object of the "map" class, and thus you need to convert it to list yourself calling "list" once more time.
+
+#conversion #dataconversion #datatypes #datastructure #python #python3 #programming #coding #codingexamples #pythonprogramming

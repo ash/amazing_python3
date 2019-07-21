@@ -1,0 +1,3 @@
+This example continues the previous code. This time, a few "adder" variables are created. Each is a closure, that acts as a function adding a specific number to its argument. For example, adder_4 addes 4, and adder_10 adds 10. Both 4 an 10 were captures (that's why it is called a closure) when the "a" function was called and the variable was initialised.
+
+#functionalprogramming #fp #fppython #functionalpython #programming #programmingtheory #cs #computerscience #closure #currying #python #python3
