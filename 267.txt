@@ -1,0 +1,5 @@
+The PIL.Image class have the "thumbnail" method, which is a bit more suitable for creating thumbnails than "resize", as it takes care of preserving the aspect ratio. 
+
+The desired size (100x100 in this example) is the maximum for the generated thumbnail. In fact, in my case the final size of the image was 100x89. (Also note that img.thumbnail modifies the "img" object unlike "img.resize".)
+
+#pillow #pythonpil #pil #imageprocessing #python #python3 #programming #imageprogramming #usepython #python101 #aipython #pythondrawing
