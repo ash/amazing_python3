@@ -1,0 +1,7 @@
+Here is a comparison of the two methods of PIL.Image: thumbnail and resize. Both are called with the same size tuple: 100x100.
+
+To see the difference, the original image was intentionally chosen landscape, that is having a bigger width than height. Thumbnail keeps the aspect ratio, and its maximum dimention is 100 (thus, height is less than 100 in this case). The resized version is exactly 100x100 pixels, and the images is distorted.
+
+Notice also that the thumbnail method modifies the image object, while the resize method returns a new one.
+
+#imageprocessing #python #pillow #pythonpil #pilpython #pythonimage #imagepython #workingwithimages #jpg #png #imageconvertion #digitalart #programming #coding
