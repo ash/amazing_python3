@@ -1,0 +1,3 @@
+To get a colour of the given pixel, use the PixelAccess object. You get this object by calling the "load" method on an image. Then, you can access the single pixes by indexing it as an two-dimentional array.
+
+#imageprocessing #pythonimages #pil #pillow #pythonpil #pillowpython #programming #python #python3 #coding #dev #python101
