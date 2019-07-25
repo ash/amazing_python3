@@ -1,0 +1,5 @@
+Python's version is a series of three numbers, for example, 3.6.4. The first is the major version number (here, Python 3), the second is a minor version number, and the third is the so-called micro-level. It increments with bugfixes, for example. Additional letters after the microversion can say if it is an alpha ("a") or beta ("b") release. In the example, 3.8.0b1 is beta 1.
+
+To see the version string, call Python with the -V command-line option.
+
+#python3 #pythonversion #python38 #versionstring #pythoncompiler #pythoninterpreter #python101 #pythoninterview #interviewquestions #programming #coding #commandline
