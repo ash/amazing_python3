@@ -1,0 +1,5 @@
+The "dir()" built-in function, when called with an argument, returns a list of methods available for that item, would it be an object or a class name.
+
+In the given example, a class C and its instance obj are created. The dir() function returns a list containing a number of object-oriented-related methods, as well as the user-defined method, "method".
+
+#objectorientedprogramming #oop #ooppython #objectorientedpython #python #pythonprogramming #codepython #pythonclasses #pythoncode #python101 #dirfunction #coding
