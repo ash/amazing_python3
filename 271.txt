@@ -1,0 +1,5 @@
+The "dir" built-in function gives you a list that contains the names, which are defined in the current namespace. If you call it straight on, you get the list of items in the __main__ namespace. 
+
+Compare the output of the same dir() call made inside the function. This function has a single variable "x", and that's the only name you see in the result of "dir".
+
+#dirpython #namespace #python #python3 #pythonnamespaces #programming #python101 #coding #interviewpython #pythonfunctions #dev
