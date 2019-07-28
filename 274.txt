@@ -1,0 +1,5 @@
+When you import the module, you can give it an alias, so in your program you will be using the new name instead of the name of the module.
+
+In this example, the "random" module from the standard library has been imported, and an aliash "r" is given to it. From that moment, you need to use "r" to access the functions from the module, such as "r.randint", and not "random.randint".
+
+#alias #pythonmodule #import #pythonimport #python101 #programmingpython #usingpython #pythonquestions #pythonfaq #coding #programminginterview #pythoninterview
