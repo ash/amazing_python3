@@ -1,0 +1,5 @@
+If you have a list of strings, and you need to merge them together, use the "join" methods called on the separator string. In the given example, the first separator is space, and the second is more complex: ", " comma followed by space. 
+
+As you can see in the output, the goal is achieved: in the first case the words are separated by space, while in the second the items are separated with comma.
+
+#textmanipulation #textprocessing #python #pythontext #pythoncode #programming #programmingpython #python101 #interviewpython #programminginterview #coding #learnpython

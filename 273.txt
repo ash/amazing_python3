@@ -1,0 +1,5 @@
+In Python, it is possible to redefine the default behaviour of the dir() function when it is applied to the instances of classes.
+
+In this example, the class C has a function __dir__, which returns a custom list. Notice that if you pass the class name to the "dir" function, you will still see a lot of functions such as __init__ etc. Although, if you call it of the object "obj", the redefined method will be called.
+
+#pythonoop #ooppython #programming #objectorientedprogramming #oop #coding #pythoninterview #interviewpython #python101 #dev
