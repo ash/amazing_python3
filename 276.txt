@@ -1,0 +1,5 @@
+If you "print" the module name, Python will also display the path to the file from which the module was loaded. In this example, one module was installed manually via "pip install pillow", while another module is a built-in module. By running the program, you can clearly see the location of the module file. It can be either a *.py or a *.so file. 
+
+If you run the same program in Python 2.7, the "time" module is not built-in there, but is loaded from an external shared library file (at least on Mac).
+
+#pythonlibrary #python #python3 #programmingpython #pip3 #pythonpip #pythonmodules #python101 #pythonprogramming #coding #pythonworkout
