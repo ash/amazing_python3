@@ -1,0 +1,3 @@
+Here is one of the methods of merging two dictionaries. It works both in Python 3 and Python 2.7. Just call the "update" method on one of the dictionaries, and that dictionary will get the new elements from another dictionary. If, for example, the first dictionary already contained the key 'Germany': 'Bonn', then it will be replaced with the key-value pair from the new one.
+
+#dictionary #variables #python #programmingpython #pythoncoding #python101 #python3 #python27 #coding #pythininterview #mergedictionaries
