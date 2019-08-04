@@ -1,0 +1,5 @@
+Here's another method of merging two dictionaries (available from Python 3.5). Use the so-called "kwargs" syntax: **dict, which will "flat" its contents, and you will get a list of interchanging keys and values. The same happens to the second dictionary. The pair of curly braces create a new dictionary from that list.
+
+Note that if you change the order of dictionaries, and they contain the same keys, you may get different results.
+
+#python35 #python38 #python #python3 #programming #hash #dictionary #pythonprogramming #pythontrick #pythontricks #python101 #coding #pythoninterview #learnpython #pythonwithease
