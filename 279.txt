@@ -1,0 +1,5 @@
+The task here is to compute the difference between the two lists. By "difference" we mean the elements that remain after you remove everything from the first list, which is in the second too, and vice versa. 
+
+It is possible to solve the problem by conferting both lists to sets and then call the "symmetric_difference" method on one of them.
+
+#symmetric_difference #python #programming #python3 #datastructures #coding #python101 #interviewquestions #pythonfaq #pythonprogramminginterview
