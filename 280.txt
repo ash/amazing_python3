@@ -1,0 +1,7 @@
+When working with sets in Python, you can use binary operators (such as + and -) to perform some operations over the data.
+
+In this example, four different operations are used: difference (which is not commutative), intersection, union and symmetric difference.
+
+Explore the output to see how it works with the given example sets.
+
+#sets #pythonset #pythondata #datastructure #programming #coding #python101 #pythonfaq #logicaloperators #setarithmetics #pythoninterviewquestions
