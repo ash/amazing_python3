@@ -1,0 +1,5 @@
+You have two lists: a list with the keys and the list with the values, and you want to create a dictionary using these data.
+
+In this program, you can see how you can sovle the task. Simply use the "zip" built-in function to alternate the keys and the values, and then call "dict" to create a dictionary out of those items.
+
+#dictionary #datastructure #programmingpython #pythontricks #puthontips #python3 #python #python101 #pythoninterview #interviewpython

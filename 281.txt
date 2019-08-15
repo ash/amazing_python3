@@ -1,0 +1,7 @@
+Here's one of the simplest methods to check if a list contains only unique elements.
+
+The list is converted to a temporary set, and as soon as there's a repeating element in the original data list, the set will not "accept" that element twice, and thus its length will not grow. 
+
+In the end, you compare the lengths of the list and the set, and if they are different, then the list did contain duplicated items.
+
+#datastructure #programmingpython #python3 #python #pythoninterview #interviewquestions #python101 #dataset #datalist #coding 
