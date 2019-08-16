@@ -1,0 +1,5 @@
+If you print a floating-point number using f-strings, you can easily apply a formatting requirement, for example, to print two digits after the decimal point.
+
+In the given example, the value of pi is printed a few times, first, without any truncation (well, it is still truncated to some default length), and then with two, three, and four digits after the decimal point. Also notice that the printed value is rounded (i.e., 3.1416 is printed, not 3.1415).
+
+#printfunction #valueofpi #math #pythonmath #fstring #formattedoutput #printpython #python3 #codingpython #coding #codinginterview #newinpython #whatsnewinpython
