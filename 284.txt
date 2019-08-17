@@ -1,0 +1,5 @@
+How to sort a list of lists and use the data contained in a given item of each sublist. In this example, the key to sort the original list is a number that is in the second element of the sublists. Thus, we are trying to sort and order the data so that the second items form a sequence: 1, 2, 3, 4.
+
+The "sort" method sorts the list in-place, and you can pass a named parameter "key" that will be used as a sorting criteria. In our case, we are extracting the second element from the list via a lambda function. This function takes the item of the "data" list (which is a smaller list of two elements), and returns its second (having the index 1) element.
+
+#sorting #algorithms #sortingalgorithm #functionalprogramming #pythonsorting #pythonfp #python #python3 #programming #knuth #coding #interview #codinginterview
