@@ -1,0 +1,5 @@
+It is possible to use C functions in your Python code. In this example, we create a simple function in C that adds two intergers: "int func(int a, int b)". The function is then compiled to a shared object (.so file), and is used from the Python script.
+
+In Python code, the shared object is loaded using "ctypes.CDLL" function, and then is called as if it is a regular Python function, located in a module.
+
+#c #programmingc #ctypes #cinterface #python #programmingpython #python3 #pythonccode #usingcinpython #codinginterview #coding #gcc #compiler #sharedobject
