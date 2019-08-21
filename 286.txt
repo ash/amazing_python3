@@ -1,0 +1,7 @@
+A class in Python can have the __repr__ method, which will be responsible for how the object is printed when you pass it to the built-in "print" function.
+
+The method should return a string, and in this example this string contains some text and the value of one of the attributes of the class.
+
+If you create two objects with different value of self.v, they will be printed differently.
+
+#python #pythonoop #oop #objectorientedprogramming #python3 #repr #printfunction #pythonobjects #objetsinpython #prettyprinting #programming #coding #python101 #class
