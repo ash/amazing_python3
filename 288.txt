@@ -1,0 +1,7 @@
+In this example, we are reading data from a CSV (comma-separated values) file containg some statistics from a banner display system. The columns of the file are: date, number of displays, and number of clicks.
+
+The "csv" module from the standard library can not only read and split data but also read the headerline of the file. Thus, later you can use the names of the columns to easily access the corresponding element, for example: "row['clicks']" will take the last value from the row of data.
+
+(Notice that in this simple program, the possible division by zero is not tested.)
+
+#statistics #python #python3 #analytics #pythonanalytics #pythonstatistics #programming #csv #data #analyzingdata #dataanalysis #bigdata #row #comma #tabseparated #commaseparatedvalues
