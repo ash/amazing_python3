@@ -1,0 +1,5 @@
+This example extends the previous program, 289-sort-func.py (see the previous post). Here, we are using the sorting function to sort the strings in the list based on their length. 
+
+For your curiosity, you can see how many times Python is calling the sorting function, and how it passes all the values from the data list to it.
+
+#sorting #algorithms #python #python3 #knuth #programming #coding #interviewquestions #pythoninterview #datastructures
