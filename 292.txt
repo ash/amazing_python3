@@ -1,0 +1,5 @@
+This program extens the previous one, so please take a look at the previous post. The goal of this program is to see how Python is using the __lt__ method of our class to perform the sorting of the list of objects.
+
+Each time Python calls the method, it passes two objects to it, and we can print which values are actually compared. Examine the output of the progam to see how many times and which values were compared.
+
+#comparison #python #python3 #algorithms #programming #coding #programminglanguages #programmingpython 
