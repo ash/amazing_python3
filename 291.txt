@@ -1,0 +1,9 @@
+If you need to sort an object using one of its attributes as a sorting parameter, define the __lt__ method in your class.
+
+In the given example, the class has the "self.value" attribute, which is set to an integer number. The "data" list contains four such objects, and we need to sort them using the value.
+
+Bare "data.sort()" call would expect to find the definition of the "<" operation over the objects. Thus, you have to implement your own "less" operation, and its predefined name is "__lt__". This function will be used by Python when you call "data.sort()".
+
+The __repr__ method was defined to allow us to see the contents of the object's attribute when printing the list. See previous posts to see how __repr__ works.
+
+#sorting #programming #python #python3 #programmingpython #algorithms #objects #objectorientedprogramming #oop #coding #development #knuth #sortingobjects
