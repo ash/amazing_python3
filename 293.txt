@@ -1,0 +1,5 @@
+When you define the operators for your own classes, you are formally allowed to implement them as you want. It is a good practice to follow the expectation of the user. So, if you implement the __add__ method, which stands for the "+" operator, make sure this method will really add the values. 
+
+In the given example it does the opposite. Python will not complain that you defined it that way, but the user may be confused, especially if you do that when you create a library.
+
+#library #modules #classespython #python #classes #python3 #operator #oop #objectorientedpython #objectorientedprogramming #programming #pythonfaq #pythoninterview #plusminus
