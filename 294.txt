@@ -1,0 +1,5 @@
+This program demonstrates another example of defining your own custom behaviour for the built-in operators. In this case, the operator is "equals" ("=="), and the corresponding behaviour can be implemented via the __eq__ method of the class.
+
+When the object was first compared to the integer value, and there were no __eq__ definition, Python could not compare the number to the value of the "self.value" attribute of an object. But as soon as we implemented the method, we can compare the number with what we need.
+
+#objectorientedprogramming #python #python3 #classes #oop #methods #objectmethods #programming #coding #programmingpython #pythonclasses #pythonoop #ooppython #pythoninterview
