@@ -9,6 +9,5 @@ class C:
 
 obj = C(42)
 
-b = 42
 print(obj == 42) # ok now
 print(obj == 44) # ok now
