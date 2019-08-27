@@ -1,0 +1,5 @@
+From Python 3.5, the "@" operator is implemented. It is reserved for the so-called matrix multiplication. It does not work with built-in data types, and thus you will get an error message if you try using it.
+
+In this is a simple example, a custom implementation of the "@" operator is defined for the user-built class C. The result does not actually depend on the operands, and is always 42. A more complex example will be in one of the following posts.
+
+#programming #operators #python #python3 #python35 #python38 #coding #matmul #multiplication #matrix #matrices #numpy #operations
