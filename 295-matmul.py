@@ -10,7 +10,7 @@
 
 class C:
     def __matmul__(self, other):
-        return 42 # implementating "@"
+        return 42 # implementing "@"
 a = C()
 b = C()
 c = a @ b # using __matmul__
