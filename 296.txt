@@ -1,0 +1,9 @@
+Let us make a small step back to see why on Earth do we need all those methods like __add__?
+
+That's simple. If you want to print the sum of the two integer numbers, you write it as "3 + 4". But what if you need to compute the sum of some objects, say, the total income in the family? And you want to do that using the same "+" symbol: "o1 + o2", where both o1 and o2 are the instances of a class "C".
+
+The Python compiler has no idea what you want to achieve by "o1 + o2", that's why it is your task to explain it in the program. You can define the behaviour of the "+" operator when that "+" appears between the two objects of your class. So, when the compiler sees "o1 + o2", it knows that it can call the __add__ method, and that will be equivalent to calling o1.__add__(o2).
+
+In the given example, our __add__ method does nothing useful and always returns the same value. In one of the previous posts, you can see how it is actually used to add up the attributes of the objects.
+
+#oop #python #python3 #adding #operator #classes #objectorientedprogramming #programming #pythonfaq #pythonclasses #pythonmethods #python101 #pythonoop
