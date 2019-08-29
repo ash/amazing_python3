@@ -1,0 +1,7 @@
+This program takes a text file and prints it to the screen skipping the lines which are empty. To check if the line is empty, the "strip" string method is used.
+
+It removes the white spaces at the beginning and the end of the line, and thus if there are any other characters left, the function will return a non-empty string. Under a Boolean test, such string has a True value, so the check is passed and the line is printed. If, otherwise, there are nothing left after calling "strip", the Boolean value if False, and the line is not printed.
+
+To iterate over the lines of a text file, a simple "for" loop is used. The file is opened using the built-in "open" function.
+
+#files #workingwithfile #textprocessing #textfiles #python #python3 #programmingpython #looping #loopspython #filespython #programminginterview #codersinterview #codinginterview #pythonfaq
