@@ -1,0 +1,7 @@
+If you need to work with more than one file, it is possible to open both of them in the same "with" construct, even if the files are opened in different modes.
+
+The program in this example copies one text file to another line by line. It opens a.txt in the read mode and copies it to b.txt, which is opened for writing.
+
+The \ in the program indicates that the program construct continues on the next line. You don't need it in your code if you have longer lines. The backslash is used here just to allow shorter lines of code in the video.
+
+#with #file #openfile #fileopen #writefile #copyfile #python #pythontext #textfiles #python3 #programming #pythoninterview #python101 #pythonwith
