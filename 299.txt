@@ -1,0 +1,7 @@
+When you access list items, you can use negative indices to count the elemnts from the back of the list.
+
+Thus, "-1" means "the last element", and "-2" is the "second from last" element, etc.
+
+Be careful not to use too big negative values so that you accidentally go out of the list.
+
+#python #pythonprogramming #python3 #lists #datastructures #pythondatastructures #pythontypes #indices #index #arrayindex #pythonarrays #pythoninterviewquestion #pythonbasics #basicpython #pythonfaq #python101
