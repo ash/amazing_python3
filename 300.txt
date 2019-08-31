@@ -1,0 +1,9 @@
+There is an important difference when you want to access the last element of a list and you use a[-1:] instead of a[-1].
+
+As soon as you type a colon, you indicate a range. Its left edge is -1, and its right side is the end of the list. In this case, you will get a list containing a single element, and indeed, that element will be the last element from the source list.
+
+The difference is even bigger when you compare a[-2] and a[-2:]. Now, a[-2] returns you a single element, while a[-2:] returns a list containing the last two items from the original list.
+
+Make sure to examine the output of this program.
+
+#python #pythonlists #python3 #pythontutorial #datastructures #programming #pythoninterviewquestions #codingpython #didyouknow #faqpython #pip
