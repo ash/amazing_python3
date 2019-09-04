@@ -1,0 +1,7 @@
+Here is another solution of the previous task. This time we do not use an explicit loop but instead are using list comprehension.
+
+The task is to add all elements from the second list to the elements of the first list, keep the order of elements, and do not allow duplicated items (see the previous post for more details).
+
+List comprehension is a construction such as "[x for x in data2]", and it can be extended by a condition ("if x not in data1" in our case). It returns a new list containing selected elements, which we later add to the resulting list.
+
+#python3 #listcomprehension #comprehension #algorithms #pythonfaq #python101 #programmingpython #programming #programminglanguages #coding #dev #it #development #interview
