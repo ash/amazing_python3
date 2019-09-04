@@ -1,0 +1,7 @@
+In Python, you can find the "array" module that comes as a part of the distribution. This module provides us with an implementation of arrays, which are similar to lists, but there is a very important difference that all elements of an array must be of the same type.
+
+The type of the element is defined via a one-character string at the time of creation, for example: array.array('i') for integer arrays.
+
+You can index the elements as you do with lists: a[1] or you can assign a new value to it: a[1] = 99, but you have to make sure that the assigned value is of the correct data type.
+
+#array #arrays #module #pythonmodule #python3 #python #programming #pythonarray #arraypython #coding #development #cpp

@@ -1,0 +1,5 @@
+The built-in "sort" function can take the "key" parameter, and you can pass your own sorting function with it. The sorting function (sort_func in the example) takes one item and returns a value that will be using as the sorting value. In the given example, the returning value is the length of the item. As we work with strings, thus, the length of a string. 
+
+So, the list of strings will be sorted by the length of its elements. As there are a few elements of the same length, they will keep their order in the resulting list.
+
+#sorting #datasorting #algorithms #python #programmingpython #python3 #sortingfunction #coding #pythonfaq #pythondocs #pythondocumentation #pythoninterview

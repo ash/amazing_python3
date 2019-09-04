@@ -2,4 +2,4 @@ This program extens the previous one, so please take a look at the previous post
 
 Each time Python calls the method, it passes two objects to it, and we can print which values are actually compared. Examine the output of the progam to see how many times and which values were compared.
 
-#comparison #python #python3 #algorithms #programming #coding #programminglanguages #programmingpython 
+#comparison #python #python3 #algorithms #programming #coding #programminglanguages, #programmingpython 

@@ -1,0 +1,5 @@
+When you have both __repr__ and __str__ defined for your class, then __str__ will be chosen when you are printing an object. But you can force __repr__ if you call the "repr" built-in function, as shown in this example.
+
+In general, __repr__ should create a representation of the object that can be again parsed by Python.
+
+#repr #str #pythonobjectprinting #oop #pythonobjects #pythonobjectorientedprogramming #objectorientedprogramming #coding #pythonfac #pythonanswers #pythonquestions #dev #development

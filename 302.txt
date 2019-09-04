@@ -1,0 +1,5 @@
+This is an interview task, where you are asked to merge two lists of integers so that the result keeps the order of the items in initial lists, but the elements are not repeating in the output. It is assumed that the original lists already contain only unique elements.
+
+Would there be no requirement for keeping the items unique, you could simply type data1 + data2. But the proper solution would be to check if the current element is already in the list (or was in the first list, as we assume the elements are unique in data2).
+
+#algorithms #python #python3 #pythonprogramming #coding #uniqueelements #pythonlists #knuth #pythoninterview #interviewquestions
