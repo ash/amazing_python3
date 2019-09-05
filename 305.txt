@@ -1,0 +1,7 @@
+For list objects, there are two similar methods that add new data to the list: "append" and "extend".
+
+If you use append, it will only add a single new element to the existing list. For example, if you append another list, you will add a single item which is a list.
+
+With extend, you flatten the data, and in the given example, two elements will be added to the original list. All new items will be on the same level as original data.
+
+#append #extend #pythonlists #python3 #programming #methods #oop #objectorientedprogramming #pythoninterview #coding #codingpython #easypython #pythonway

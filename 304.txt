@@ -1,0 +1,5 @@
+When you assign a variable to a list, Python does not clone the data, and you end up with two different names linked to the same data list. This means that if you change it using the new name, you modify the only copy of data, and if you will later refer it by an old name, you will see the changes.
+
+To keep the original data unchanged, clone the list. There are two simple ways to do that. First, call the "copy" method. Second, use an empty range "[:]" to create a new list.
+
+#lists #pythondatatype #datatype #python #python3 #programming #shallowcopy #deepcopy #copylist #coding #pythonfaq #python101
