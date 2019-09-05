@@ -10,7 +10,7 @@ data2 = [5, 8, 10, 11, 12]
 # Another solution using list
 # comprehension
 
-data = data1
+data = data1.copy()
 data.extend(
     [x for x in data2 if x not in data1]
 )

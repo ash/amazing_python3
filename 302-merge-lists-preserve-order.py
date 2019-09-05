@@ -10,7 +10,7 @@ data2 = [5, 8, 10, 11, 12]
 # data = data1 + data2 # wrong, elements
 # will be repeated
 
-data = data1
+data = data1.copy()
 for x in data2:
     if x not in data1:
         data.append(x)
