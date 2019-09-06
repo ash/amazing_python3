@@ -1,0 +1,5 @@
+Here's another efficien way of clonign a list in Python. Just use the built-in "list" function which works as a constructor and creates a new list using the elemetns that you pass in an iterable argument.
+
+In this example, when you assign the value of 99 to an element, you modify the new list "data2", while the old one, "data", stays untouched.
+
+#programmingpython #programming #python #datastructures #computerscience #coding #debugging #knuth #pythonlist #python3 #pythonfaq #python101 #easypython
