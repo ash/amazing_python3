@@ -1,0 +1,7 @@
+When you deal with nested data, you can easily index the deeper items by subsequently indexing all the layers.
+
+In the given example, a list contains four elements: three integers and another list. The inner list contains two integers. The task is to take the second value in the inner list.
+
+First, you have to get to the inner list, which is the element number four (with index 3) of the outer main list. So, you type "data[3]". Second, you navigate inside the inner list, and you add "[1]" to get the second item (the item with index 1). So, the final complex index is "data[3][1]".
+
+#index #indexing #arrays #lists #python #pythondata #datastructure #complexdata #deepcopy #deepdata #innerouter #pythonprogramming #python3 #pythonbasics #easypython #pythonforyour #python4you
