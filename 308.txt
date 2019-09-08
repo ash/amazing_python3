@@ -1,0 +1,7 @@
+Here's a possible solution to flatten a list that contains both integers and other lists. I would not call this solution very elegant, but it works (if there are only one level of nested lists).
+
+You iterate over the elements of the original list and check if the current item is an iterable objects (in other words, if it has an attribute with the predefined name "__iter__"). If so, you extend the resulting list. If not, then you simply append the element to the end of the result.
+
+You are welcome to offer your own solution of this task in comments.
+
+#algorithm #algorithms #logic #python #python3 #programming #knuth #pythontask #pythoninterview #interviewpython #python101 #programmingpython #codingpython #easypython
