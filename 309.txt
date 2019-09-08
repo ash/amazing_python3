@@ -1,0 +1,7 @@
+This is the continuation of the previous example. The task is to take a list with nested lists and make it a flat structure. This time, we want to process nested lists too.
+
+The most straightforward solution is to move the main algorithm to a function and call it recursively each time we see an iterable object. From the "flatten(data)" function we call "flatten(x)" passing the current element in the loop via the "x" variable.
+
+You are still invited to invent an alternative algorithm.
+
+#algorithm #iteration #recursion #programming #knuth #flattenning #list #datastructure #bigdata #coding #dev #it #python #python3 #functionalprogramming #function 
