@@ -1,0 +1,5 @@
+When you work with floating-point numbers, don't forget that in Python, these numbers are presented as a floating-pointing numbers and thus are not 100% precise. The real descrepancy is quite small for daily-life applications, but when you compare two such numbers, do not compare them using the "==". 
+
+When you have two close floating-point numbers, consider them equal if they are close enough to each other. You can assume that if the difference between the two numbers is less than 1E-15 fraction of their value, then the numbers are equal. Everything smaller than this is an error of representing the number as a "float" or "double". 
+
+#preciseness #floatingpoint #floatingpointarithmetics #ieee #programming #algorithm #python #python3 #pythonfaq #programminginterview #coding #dev #it #program #programme
