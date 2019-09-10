@@ -1,0 +1,5 @@
+When indexing nested lists, you can also use negative indices to count the elements from right to left. The element with the index -1 is the last element in the list. And then further, you can use negative indices to navigate within a nested list.
+
+In this example, the element in question can be accessed either as data[3][1] or as data[-1][-1].
+
+#programming #arrays #programmingpython #python #python3 #easypython #pythonfaq #pythonbasics #amazingpython #amazingprogramming #pythonataglance
