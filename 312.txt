@@ -1,0 +1,5 @@
+If you have a chain of comparisons within an "if" statement, you can think of using the "in" check. 
+
+In this example, the value of "x" if tested against three integer numbers. In the first case, the three == checks are used, in the second case, a single "in" is checking if the value exists in the given list of possible values.
+
+#in #if #ifelse #logical #python #python3 #pythonbasics #basicpython #easypython #pythonforkids #pythonfaq #dwim #programming #coding
