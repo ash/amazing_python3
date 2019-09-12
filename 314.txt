@@ -1,0 +1,5 @@
+Here is another solution of the previous task. The goal is to find and print the first element from the list, which is repeating.
+
+This time, a set is used to keep the values that we have already seen. This allows not to scan the whole list again and again. For example, with the given data list, no items further than second "5" are ever reached.
+
+#programming #optimization #optimisation #coding #bettercoder #python #pythonfaq #howtoprogrampython #pythonhowto #howto #codinghowto #algorithm #datastructure
