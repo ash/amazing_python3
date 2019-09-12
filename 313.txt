@@ -1,0 +1,5 @@
+The task is to find the first repeating element in the list and print it.
+
+In this solution, the straightforward method is used, while it may be not very efficient for big data lists. We scan the list from left to right and check the number of occurences of it in the list. If "data.count(x)" is more than one, then this element repeats at least twice, and we found the answer.
+
+#algorithm #programming #codinginterview #python #pythontask #python3 #programmingpython #python101 #programminginterview #interview #interviewquestions #pythonfaq #learnpython
