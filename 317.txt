@@ -1,0 +1,3 @@
+This is a continuation of the previous example. The program loops over a list and removes one of the list items inside the loop. In the previous program, there were no errors thrown as we never accessed the elements that were removed after they were removed. In this program, the print instruction is added, and it prints every element. As one of the items is removed, the list gets shorter, but the loop still wants to iterate over all elelements from the original list. On the last iteration, Python throws an exception "list index out of range".
+
+#exception #python #python3 #programming #programmingcode #correctcode #throw #coding #pythonfaq #pythonpractice #algorithms #datastructure
