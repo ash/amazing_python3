@@ -1,0 +1,7 @@
+Sometimes you nedd to remove an element from a list, and to find the element, you need to scan the list. Do not remove the item *while* you are looping over the list. That may break the index in the best case, and you get out of index range.
+
+The example diplayed here is an example of a bad style of programming. Do not follow it. 
+
+If you need to remove an element, first get its index, for example, and then remove it outside of the "for" loop.
+
+#badpractice #badpython #python #python3 #pythonadvise #programming #codinginterview #pythonfaq #codingfaq #coding #interview #bestprogrammer #bestpractice
