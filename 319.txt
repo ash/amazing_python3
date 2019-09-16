@@ -1,0 +1,7 @@
+This is a continuation of the previous example. Now, we want to make sure that the function in the header of the "for" loop is only called once (which is the correct answer).
+
+To see it explicitly, move the condition logic to a separate function, and print something from it.
+
+In the output, you will see that the function only prints the message once, which means that it was called only once.
+
+#programming #python #python3 #pythontask #pythonquestion #sopython #stackoverflow #coding #loops #pythonloops #algorithm #programmingalgorithms
