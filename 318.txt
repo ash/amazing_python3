@@ -1,0 +1,8 @@
+When you are working with "for" loops in Python, you have to understand when and how Python calls the function that you have in the header of the loop. 
+
+In the given example, the loop determines the size of the data list and creates the range (from 0 to 4) to iterate over it. The question is how many times do you expect both "range" and "len" functions to be called? Are they called on each iteration or only once?
+
+If you know the answer, then here's an additional one: how to confirm your answer?
+
+#programming #loops #pythonprogramming #pythonfaq #pythoninterview #pythonquestion #pythonqa #python #python3 #coding #exercise #programmingquiz #pythonquiz
+
