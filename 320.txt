@@ -1,0 +1,5 @@
+Here is one of the simplest ways to execute an external program from your Python script. Use the "os" (stands for "operating system") module, and call its "os.system" function, which takes a command line that will be executed.
+
+Please notice that while you see the output of the "date" program, Python actually did not print it. The program "date" itself printed it.
+
+#python #system #os #operatingsystem #linux #ubintu #unix #programming #python3 #pythonmodules #coding #pythonfaq #python101 #learningpython #learnpython
