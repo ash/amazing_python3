@@ -1,0 +1,5 @@
+When you call an external program that prints more than one line and capture its output using the "subprocess.getoutput" function, you will get a single multiline string (not a list of strings, for example).
+
+You can work with this captured string as with any other regular string. Split it to multiple lines if you need it.
+
+#python #subprocess #capturing #commandline #systemprogramming #console #terminal #pythonmodules #python3 #pythonexample #pythonbyexample #easypython
