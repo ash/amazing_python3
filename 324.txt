@@ -1,0 +1,7 @@
+In this example, a two-dimensional list of lists is transposed. That means that the original data is a list of four two-element sublists, and the output result is a list of two elements, which are four-element tuples.
+
+According to the Python documentation, the "zip" built-in function is defined as "zip(*iterables)" and it "makes an iterator that aggregates elements from each of the iterables."
+
+The result of "zip" is the "zip object", and you need to convert it to a list yourself.
+
+#conversion #datatype #python #python3 #pythondata #zip #zipoperator #pythonprogramming #programming #pythonschool #easypython #trickypython
