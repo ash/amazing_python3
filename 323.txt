@@ -1,0 +1,9 @@
+This example demonstrates how to execute a function in parallel using threads.
+
+The main job is the function "do_work(x)" that takes a single argument and prints it after a small delay. Later, we create 10 jobs, each is a separate call of "do_work" but with different arguments (they increase from 0 to 9).
+
+The jobs are submitted to an executor, which is an instance of ThreadPoolExecutor with 10 threads (maximum).
+
+When you run the program a few times, you will see that the numbers are printed in different order.
+
+#parallelprogramming #programming #parallel #concurrentprogramming #concurrentcomputing #codingpython #python #pythonthreads #threads #threadsprogramming #python3 #ThreadPoolExecutor #executor #pool
