@@ -1,0 +1,7 @@
+When you copy lists with integers using one of the methods shown earlier (for example, data.copy()), you can be sure that a new list gets fully separated with its original prototype.
+
+But as soon as you start keeping objects in a list, you will still get a copy in the new list, but that copy will be just a reference to an object which was mentioned in the original list.
+
+Examine this example. The "data" list have two items: instances C(7) and C(8). The "data2" list has its own copies of the references pointing to the same objects. When you modify an object using the "data2" name, you still change the only copy of that object.
+
+#oop #python #programming #programmingpython #objectorientedprogramming #codingpython #coding #development #itinterview #it #programmingsafely #safeprogframming #shallowcopy #deepcopy #objects
