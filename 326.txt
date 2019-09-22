@@ -1,0 +1,3 @@
+To create a tuple that has only one element, you can use this syntactic tric: put a comma after that single element. Python will treat it as an indication of more elements, while you do not provide any more. If you omit the comma, even the presense of parentheses will not help to create a tuple. The construct like "(42)" is a simple expression that returns an integer.
+
+#python #pythonsyntax #syntaxpython #programming #pythontip #pythontrick #tuple #array #datastructure #coding #dev #development #pythonfaq #python101
