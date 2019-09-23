@@ -1,0 +1,7 @@
+This progam is a continuation of the task 323, where we created a number of threads to make many jobs concurrently.
+
+This time, our goal is to see that involving threads really helps to increase the spead of the program. First, the program is asked to use up to 10 threads to make 10 jobs. Later, the same program is modified to have only 1 thread for the same 10 jobs.
+
+The speed in the first case was 0.2 sec, in the second - 1 sec. 
+
+#parallelprogramming #concurrentprogramming #programming #coding #python #python3 #threadpoolexecutor #thread #threads #jobs #fastcode #fastpython #interviewquestions
