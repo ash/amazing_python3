@@ -1,0 +1,7 @@
+There are different ways to create a tuple in Python. The main idea is to use comma and list the items. You can use parentheses, but it is not strictly needed.
+
+Pay attention when you create a tuple with a single element: you need a trailing comma (see #326).
+
+It is also possible to use the name of the class as a function (as it is done for "t5"), and provide an iterable object for initialisation.
+
+#tuple #pythontuple #pythonprogramming #python #python3 #programming #datastructures #coding #pythonfaq #pythonbasics #python101
