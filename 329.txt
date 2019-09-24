@@ -1,0 +1,11 @@
+There are a few different ways to get a reversed list. In this example, three methods are demonstrated.
+
+First, you can use a range with the third - step - parameter and set the step to -1. You will get a new list with reversed data in it.
+
+Second, use the "reversed" built-in funciton. Please notice that in Python 3 the result of this function is a "list_reverseiterator object", and to get a list, apply the "list" function to it. (In Python 2, the object has the "listreverseiterator" class.)
+
+THe above methods do not modify the original data. 
+
+Finally, you can reverse the list in place by calling the "reverse" method on it. Be aware that it changes the list and does not return it.
+
+#reverse #reversealist #datastructure #python #python3 #pythoncode #codingpython #coding #programming #usingpython #easypython #pythonfaq
