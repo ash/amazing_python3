@@ -1,0 +1,5 @@
+This program demonstrates how you can "invert" a dictionar and exchange its values with its keys (assuming that the values do not repeat in the original dictionary).
+
+Here, the so-called dictionary comprehension is used. Inside curly braces, you explain how you want to build a new dictionary using the keys and values from original data.
+
+#dictionary #datastructure #python #pythonprogramming #programming #coding #algorithms #inversion #python3 #comprehension #dict #dictionarycomprehension #insideout
