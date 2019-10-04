@@ -1,0 +1,9 @@
+Welcome to NumPy, a Python library for working with matrices. Or, in other words, with N-dimensional arrays. In the given example, we have an array of two arrays. The two arrays are called two axes. 
+
+To create a data item, import the library ("import numpy"), and them create an array: "numpy.array(...)".
+
+In this program, we check the shape, the number of dimensions, and the size of the array.
+
+The type of the whole data structure is numpy.ndarray.
+
+#numpy #ndarray #programming #coding #python #python3 #np #ndarray #numpyprogramming #numpyexample #pythonfaq #pythonnumpy #numpypython #arrays #datastructure
