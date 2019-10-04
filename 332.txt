@@ -1,0 +1,3 @@
+To transpose a matrix with NumPy, just call the "transpose" method. Make sure to save the result of that call to a variable, as it does not change the array in place.
+
+#transpose #numpy #programming #python #python3 #mathematics #scipy #programmingnumpy #pythonnumpy #scientific #science #coding #arrays #ndarray
