@@ -1,0 +1,5 @@
+Before you can start using the NumPy library in your Python programs, you need to install it. The easiest way is to to use the "pip" command-line tool, which does all the work for you. If you have both Python 2 and Python 3 installed on your computer, you may want to prefer using "pip3" instead.
+
+After you've intalled NumPy once, you can use it in all your future programs.
+
+#programming #installnumpy #numpy #coding #pip #pip3 #pythonfaq #devops #python101 #numpy101 #numpyfaq
