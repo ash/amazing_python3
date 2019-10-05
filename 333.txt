@@ -1,0 +1,3 @@
+Here is another way of transposing a n-dimensional matrix with NumPy. Instead of calling the "transpose" method, you can use the "T" attribute. Both give the same result: a transposed matrix. As with "transpose", the "T" attribute just returns a new matrix, keeping the origial unchanged.
+
+#transpose #matrix #matrices #matrixcomputing #programming #python #numpy #scipy #coding #mathematics #programminginterview #questionnumpy #numpyfaq #numpy101
