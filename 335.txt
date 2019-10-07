@@ -1,0 +1,5 @@
+If you need to read the given line from a text file, and the file is not very big, you can do it using the technique shown in this program.
+
+Open a file, and read all lines to a list using the "readlines" method. The "lines" variable will then contain all lines, and you can easily access the one you need by indexing it. Thus, to print the fourth line, type "lines[3]".
+
+#python #textfile #interviewquestion #pythoninterview #python3 #programming #coding #development #knuth #file #workingwithfiles #textfile #text #readingfile #readingfiles #textprocessing
