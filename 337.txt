@@ -1,0 +1,5 @@
+In Python, you can assign more than one variable at once. Just list the variables on the left side of the equals sign, and the values - on the right sign.
+
+But when you have more values than variables, then you can make this trick and put a few values to a single variable. The "a" and "c" variables get a single integer. The "b" variable will contain a list that includes all other values.
+
+#python #pythontricks #pythonfaq #eaaypython #python3 #python101 #pythonprogramming #programming #coding #listassignment #tuple 

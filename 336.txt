@@ -1,0 +1,7 @@
+Reading the last line from a file is trickier if you don't want to read the whole file and save it in a list. The method implemented in this program is more suitable for big files with a lot of lines. 
+
+First, you go to the last character of the file using the "seek" method. Then you start reading a single character moving back, towards the beginning of the file. As soon as you meet the newline character ("\n"), you can stop and read a line starting from that position (using "readline").
+
+Note that the last line of the file in the example does not end with a newline character. Otherwise, you have to search for the second of them (or you can immediately check it and confirm the last line is empty).
+
+#textprocessing #programming #python #pythontext #pythonfaq #easypython #learnpython #learningpython #learnprogramming #learncoding #files #fileprocessing #pythonfile
