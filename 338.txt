@@ -1,0 +1,7 @@
+Here is an example of how to connect to a MySQL server, make a query and print the result.
+
+In Python, you can use the "mysql.connector" module for this. Make sure you already installed it using the following command: "pip3 mysql.connector".
+
+We are connecting to a public server that allows connections from an anonymous users with empty password.
+
+So, the first step is to create a connection. Then you grab a cursor, and execute a command. Finally, you fetch the result lines using "fetchall()". It returns a list, each item of which represent the data. As in the current example the only one line is returned, look at the 0-th element of the list.
