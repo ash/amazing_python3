@@ -1,0 +1,7 @@
+A simple way to check if all the elements in a given list are equal.
+
+The method is the following: you convert a list to a set. With this opearation, the same elements will form only a single element in a set. Thus, all duplicated elements will go. If in the end you have a set of only one element, that means that you had only equal elements in the original list.
+
+Notice that if you have a list of a single element, the answer will always be True.
+
+#python #pythontrick #programming #coding #programminginterview #dataset #datalist #datastructure #knuth #algorithms #python3 #pythonprogramming #pythonprogrammer #programmer #codingchallenge
