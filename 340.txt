@@ -1,0 +1,6 @@
+Here is another solution of the previous task: to tell if all the elements of a list are equal. This time, we are using the "all" built-in function, which returns True if all the data items passed to it are True.
+
+Thus, we cannot directly use either data1 or data2 in the "all" function. First, you need to convert its elements to a Boolean value. You can choose to compare each element with the first element of the list. To achieve this, the simplest is to use a map and the lambda that converts each item to the Boolean value we need.
+
+#programming #python #python3 #datastructure #algorithms #knuth #codingexamples #pythontest #pythoninterview #codinginterview #pythonfaq #python101
+#developer #coding
