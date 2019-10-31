@@ -1,0 +1,9 @@
+You have two lists and you need to check if they both contain the same elements, maybe in different order. 
+
+One of the simplest ways is to count the number of each value and compare the answer with the same from the second list. You can simplify the task by utilising the "Counter" tool from the "collections" default module.
+
+Counter returns an object of the "collections.Counter" type, that contains a dictionary data structure inside: the keys are the unique values from the list, and the values are the number of their repetition.
+
+Make the counter for both lists, and then compare the counters. If they are equal, the lists contain the same elements.
+
+#counter #collections #python #python3 #pythoncollections #pythonprogramming #pythonlibraries #pythoncoding #learnpython #pythonedu #pythonfaq #pythonbasics #codinginterview
