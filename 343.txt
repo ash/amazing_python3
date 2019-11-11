@@ -1,0 +1,7 @@
+Here is an interview question for you. You have a list containing some data, and you need to print the indices of them and their values. 
+
+So, for a list of ['red', 'green', 'blue'], you need to print "0" and "red", then "1" and "green", and then "2" and "blue".
+
+A naïve approach would be to make a loop from 0 to the size of a list and access data using square brackets. But you can make it simpler by exploiting the built-in function, "enumerate". It returns a list of tuples, each containing a pair: index and value. Thus, you iterate over the result of "enumerate(data)" and on each iteration you have two things: the index and the value of current item.
+
+#programming #python #programminginpython #python3 #interviewpython #codingpython #programminginterview #interviewquestion #jobpython #pythonjob #development #dev #it #coding #pythonfaq
