@@ -1,0 +1,5 @@
+To concatenate a few strings that are stored in a list, use the "join" method. If you need to join the strings and have spaces between them, call the join method like this: " ".join(data), where "data" is your list of strings.
+
+For the programmers in other languages, it may be a bit tricky to remember that you have to call the method on a separator string rather than on the data list.
+
+#python #python3 #programming #interviewquestions #pythoninterview #python3interview #coding #textprocessing #pythonexam #learnpython #easypython
