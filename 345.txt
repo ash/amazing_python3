@@ -1,0 +1,7 @@
+Here is the task: tell if the two text strings are anagrams (i.e. contain the same letters but maybe in different order).
+
+One of the possible solution is to use the Counter functions from the collections standard library.
+
+The function returns a dictionary with the result of counting each character in a string. If such a dictionary is the same for another string, then the strings are anagrams.
+
+#anagram #textprocessing #programming #python3 #python #python101 #interviewquestions #pythoncode #codingpython #pythonprogramming #learnpython #anagramtest #pythontest
