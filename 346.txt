@@ -1,0 +1,3 @@
+One of the simplest ways to reverse a list in Python is to use a slice. Its third parameter is a step, and if you set it to a negative value, Python will traverse a list from the end to the beginning. Leave the first two parameters empty: [::-1].
+
+#python #python3 #pythonprogramming #knuth #programmingquestion #programmingpython #pythonfaq #faqpython #simplepython #pythonlists #pythonbasics #coding #dev #developmemnt #programmer
