@@ -1,0 +1,5 @@
+Here is another way of reversing a list in Python. You can use the "reversed" built-in function. Note that in returns the "list_reverseiterator object", and if you need a list, you need to convert it by calling "list". 
+
+You don't need to convert it to a list if you use the reversed function in a "for" loop, for example. It accepts iteratable objects, so it is fine to write "for x in reversed(data): ...".
+
+#reversed #iterator #lists #pythonlist #pythonfunction #python #python3 #pythonprogramming #knuth #programmingquestion #programmingpython #pythonfaq #faqpython #simplepython #pythonlists #pythonbasics #coding #dev #developmemnt #programmer
