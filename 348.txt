@@ -1,0 +1,5 @@
+The task here is to compute the sum of squares for the integer numbers from 0 to 10, including 10.
+
+You can use a range range(11) and generate the sequences of squares directly inside the argument of the "sum" function.
+
+#computing #sumofsquares #python #python3 #programming #coding #development #dev #it #pythonfaq
