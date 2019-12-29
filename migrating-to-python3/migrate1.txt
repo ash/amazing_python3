@@ -1,0 +1,5 @@
+In Python 2, "print" is a statement, and you can use it without parentheses. In Python 3, "print" is a function, and you need to call it with parentheses.
+
+That’s one of the first thing that are different in Python 2 and Python 3.
+
+#python2 #python #python3 #migratingpython3 #progframming #coding #dev #programmer #pythonfaq #easypython #newpython
