@@ -1,0 +1,8 @@
+When you work with integer numbers (not floating-point values), the single slash / means integer division in Pyhton 2. That means that you will always have an integer result, so 10 / 3 = 3. 
+
+In Python 3, the same construct gives you a floating-point result, so 10 / 3 = 3.33333. 
+
+Be careful and check such divisions if you are upgrating your Python script from Python 2 to Python 3.
+
+#python #pythonmigration #migratepython #updatepython #upgradepython #pythonypgrade #python2 #python3 #python27 #python35 #python38 #programming #coder #coding #programmer
+
