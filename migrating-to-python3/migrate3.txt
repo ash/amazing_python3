@@ -1,0 +1,7 @@
+In Python 3, using UTF-8 is much simpler than in Python 2. This example prints the Chinese version of "Hello, World!", and then prints the length of the string. 
+
+The first differense is that in Python 2 you have to specify the encoding manually via a comment directive in the first line of the program. The second difference is that you do not get the correct length of the string in Python 2 when you use "len" directly. 
+
+In Python 3, both operations (using a UTF-8 string and taking its length) are done intuitively.
+
+#python #python3 #utf8 #unicode #programming #migratingtopython3 #upgradepython #coders #coderslife #y2k #dev #it #pythonfaq
