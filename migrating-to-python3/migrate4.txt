@@ -1,0 +1,5 @@
+In Python 2, you'd better use raw_input() instead of input() to get a string from the user. In Python 3, a bare input() always returns a string, so you are safe and can make data conversion yourself based on your needs.
+
+So, use input() in Python 3 where you used to use raw_input() in Python 2.
+
+#python #python3 #ui #userinput #programming #python27 #python38 #coding #programmer #recipies #programmingrecipies #upgratepython #pythonfaq
