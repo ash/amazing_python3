@@ -1,0 +1,5 @@
+Beware when rounding floating-point numbers that have exactly .5 as a fraction. In Python 2, you get the next integer number (so, 0.5 becomes 1, and 1.5 becomes 2).
+
+In Python 3, the "Banker's rounding" principle is implemented, so the number is rounded to the nearest even number. This means that 0.5 becomes 0, and 1.5 is rounded to 2.
+
+#rounding #bankers #numbers #floatingpoint #programming #computing #development #dev #it #coding #programminglanguage #python #python3 #python2 #python27 #python38 #coder #programmaer
