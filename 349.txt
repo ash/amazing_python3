@@ -1,0 +1,5 @@
+The built-in "round" function can take two parameters, where the first one is the nubmer to be rounded, and the optional second parameter is the number of digits after the decimal point that you want to see in the result.
+
+So, round(x, 2) rounds the result so that there are two digits after the decimal point (unless the last digit is 0 as in round(1.203, 2)).
+
+#round #print #helloworld #python #python3 #programming #numbers #floatingpointnumber #coding #pythonlibrary #pythonround #functions #roundfunction

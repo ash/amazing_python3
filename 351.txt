@@ -1,0 +1,6 @@
+The "emoji" module allows to use emoticons by referring to their names. Such as, ":bus:" or ":telephone:". 
+
+In some cases, you need to add the "use_aliases=True" parameter to allow the name. For example, ":telephone:" is accessible by default, while ":phone:" is not.
+
+The "emoji" module is not a part of Python installation, so install it using pip: "pip3 install emoji". To find the name of an emoticon, refer to the following page, for example: https://www.webfx.com/tools/emoji-cheat-sheet/
+
