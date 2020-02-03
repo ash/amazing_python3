@@ -1,0 +1,5 @@
+This program "draws" a "tree" that consists of 10 lines of stars, each line having one more star.
+
+The main body of the program is a "for" loop, where the "i" variable takes the values from 1 to 10. To make a repetition of the "*" character, we are using the "*" operator, which, when applied to a string, creates another string as a repetition of an original string. So, when "i" has the value of 3, the "'*' * i" constuct produces the "***" string.
+
+#python #programming #tasks #pythonfaq #pythonalgorithms #python3 #algorithms #pythonquiz #pythoninterview #programminginterview #codinginterview #coding #interviewquestions
