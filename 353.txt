@@ -1,0 +1,7 @@
+Here is a modification of the previous program printing a tree to make the tree looking symmetrical. 
+
+There are two changes in this program comparing to the previous one. First, the "for" lopp is running with the step "2" so that two stars are added on each eteration (one on the left, one on the right). 
+
+Second, the string is centered before being printed out. This is done by calling the "center" method on the string. Note that you need to put another parentheses around this construct so that you don't call "center" on the result of calling "print".
+
+#algorithms #python #python3 #programming #coding #centering #trees #programminginterview #pythofaq #easypython #pythonexplained
