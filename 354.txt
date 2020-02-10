@@ -1,0 +1,7 @@
+Here is an implementation of the algorithm building the so-called Pascal's triangle. In it, there are a few lines of numbers, and in each next line the number is the sum of the two numbers right above it. Just look at the output to better understand how it is constructed.
+
+The program fisrt initialises the list "data" and sets its middle number to 1. Then, a loop runs and scans the data to compute the sum of the two adjacent numbers. Iterations stop when the first element of the "data" list becomes non-zero.
+
+The second half of the program is printing the triangle in a cute way. It only prints the non-zero numbers, thus there's a "filter" function and a lot of surroundings to make a centered string out of its result.
+
+#pascal #pascalstriangle #python #python3 #algorithm #programming #coding #interviwepython #pythonfaq #programmingtasks #pythoncode
