@@ -1,0 +1,7 @@
+This program prints all the factors of the given integer number. In other words, for the given N, it prints all other smaller integers, by which you can divide N with no remainder.
+
+For example, for the number 12, the factors are 1, 2, 3, 4, and 6. For a prime number such as 17, it will be only 1. (The number 17 itself is not printed in this program.)
+
+We are using the modulo operaotor, `%`, to test if `N` is divisable by `x`: `N % x == 0`.
+
+#modulo #python #division #divisable #prime #primenumbers #python3 #programming #numbers #workingwith numbers #integers #coding #pythonfaq #faqpython #programmingpython #pythonnow #easypython
