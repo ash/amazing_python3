@@ -1,5 +1,5 @@
 In this program, we are solving the same problem as before, but this time, the factors of the integer are found using the so-called list comprehension. The `[n for n in range...` construct creates a list of numbers that pass a condition `...if N % n == 0`.
 
-Notice that there is another change comparing to the previous program. Namely, the upper edge of the range is `sqrt(N)`, as there's no chance that a bigger number can be a factor of `N`.
+Notice that there is another change comparing to the previous program. Namely, the upper edge of the range is roughly half of `N`, as there's no chance that a bigger number can be a factor of `N`.
 
 #factorization #programming #computing #python #sqrt #python3 #coding #codeexamples #codingexamples #pythonatwork #pythonworks #pythonprogram #creativeprogramming #program #computer
