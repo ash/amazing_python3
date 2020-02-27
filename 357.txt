@@ -1,0 +1,7 @@
+In this program, we get a string containing a few integer numbers separated by comma, and we need to get a list of those integers as a list of integer, not a list of strings.
+
+A naïve splitting by comma returns a list of strings, obviously. What you need is to call the `int` built-in function to convert each substring to an integer. To simplify the code and avoid explicit loops, use the `map` function. It will call `int` for each of the elements that `data.split(',')` returns.
+
+Compare the result of executing two approaches.
+
+#python #python3 #dataprocessing #textprocessing #csv #text #numbers #arithmetics #computing #programming #coding #dev #it #pythonit #map #functions #pythonfunctions #split
