@@ -1,0 +1,3 @@
+You’ve got a list of items, and you need to keep them together with the index of each element. Use the built-in `enumerate` function, which returns a tuple for every elemnet. The first element of a tuple is the index (starting from zero), and the second element is the original item. Note that the `enumerate` function returns an `enumerate object`, so you need to convert it to a list with the `list` function.
+
+#python #python3 #programming #lists #coding #development #programmingpython #learnpython #pythoncoding #program #programmer #it #codepython #pythontrick #pythontricks
