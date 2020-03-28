@@ -1,0 +1,9 @@
+This program prints the name of the country if you supply it with the 2-letter code. So, for `DE` it should print `Germany`. Also, vice versa, give it `Germany` and it should return `DE`.
+
+There exists a ready-to-use module, `pycountry`, which is not part of the Python distribution, so you have to instal it using the `pip` utility: `pip3 install pycountry`.
+
+Having this done, call the `countries.get` function and extract the part you need. In our case, if you call it with the named argument `alpha_2='DE'`, you can take the `.name` part. Or, if you need a code, call the function with the parameter `name='Germany'`, and take the `.alpha_2` part.
+
+The full video of this eposode is available on YouTube: https://www.youtube.com/watch?v=YAZGoBWJkfk (link in bio).
+
+#python #country #population #python3 #pycountry #alpha2 #countrycode #pythonprogramming #programmingpython #geopython #geography #coding #geocoding #easypython #funpython #coolpython
