@@ -1,0 +1,7 @@
+Here is a simple function to test if the given integer number is odd (or, in other words, if it is not even).
+
+We are using the modulo division operator `%` that gives the remainder of the division by 2. So, if the number is odd, the remainder is 1. If the number is even, the remainder is 0.
+
+Both 1 and 0, being used in a Boolean context, can be interpreted as the True and False values. So, the result of the `is_odd(n)` funcion tells us if the number was odd or not.
+
+#python3 #python #oddeven #odd #even #numbers #programming #knuth #algorithms #coding, #codinginterview
