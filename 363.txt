@@ -1,0 +1,5 @@
+Here is a simlple algorithm to determine if the given integer number is prime. A prime number is the one that can only be divided by 1 and by itself. The number `1` is not considered prime, so we exclude it from the test immediately. Then, all the integer numbers below `n` are tested and if we see that `n` is dividible by one of them, the result is `False` and the number is not prime. If we could not find such a number, then the input number is prime.
+
+TIP: You may make the algorithm more efficient by choosing a better right end of the `range(2, n)` to avoid scanning numbers that for sure are not dividers of `n`.
+
+#primenumbers #prime #python3 #python #programming #code #algorithm #mathematics #codinginterview #interviewquestions #pythoninterview #pythonprogram #pythonalgorithm #pythonprime
