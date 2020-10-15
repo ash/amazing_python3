@@ -1,0 +1,5 @@
+Here is an example of a simple way to generate a random password using different ASCII characters. Step 1. You use the `randint` function from the `random` module to generate a random integer between 33 and 127 (including 33 but not including 127). Step 2. Convert the integer to the corresponding ASCII character (from # to ~). Step 3. Append the character to the `pwd` string. Done.
+
+You may change the range of the ASCII space to limit the passwords to digits and letters only, for example, but then you need to have a few gaps in the range.
+
+#password #python #python3 #program #programming #coding #pythoncoding #generatepassword #safepassword #securepassword #random #pythonmodule
