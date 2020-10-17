@@ -1,0 +1,3 @@
+Did you know that the `_` variable actually keeps the value that was assigned to it and thus can be used as a regular variable? In this example, the `_` is used as a loop variable but its value is printed in every iteration. You can see that it works.
+
+#python3 #python #underscore #variables #_ #programming #coding #pythonpractice #easypython #pythonbasics #loops #pythonloop
