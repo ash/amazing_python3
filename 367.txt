@@ -1,0 +1,5 @@
+To determine if a given year is a leap year or not, you can manipulate the numbers such as divide it by 4 and by 100 and by 1000 and finally make some conclusions, but you also can use the built-in `calendar` module that has the `isleap` function, which does the job.
+
+In this program, we print the years which are leap in the interval between 2020 and 2030 (not including 2030, which isn’t leap anyways).
+
+#python #python3 #calendar #programmingpython #programming #leapyear #coding #algorigum #importcalendar #datetimepython #datetime #easypython #pythonbeginner #startpython #beginnerpython
