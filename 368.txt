@@ -1,0 +1,3 @@
+In this example, we are reading data from a JSON file. You need the built-in `json` module, so import it with `import.json`. Then, you open a text file as `open('capitals.json')` and load data from it: `json.load(f)`. If it was possible to parse the data, there are no exceptions, and you can continue with working on the data which were saved in a variable. In the given example, we loop over the array and print the pairs country—capital, one at a line.
+
+#json #pythonjson #python3 #python, #filepython #pythontext #programming #coding #runningpython #readingjson #jsonformat #jsonpython #datastructures
