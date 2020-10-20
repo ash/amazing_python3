@@ -1,0 +1,5 @@
+In one of the previous programs where we were reading frrom a JSON file, some of the code was written in the `with` block. It is possible to improve the program so that we can close the file as soon as possible, immediately after we read and parsed JSON.
+
+Just create a new variable before the `with` block, and move the printing code out of it. So simple. 
+
+#python3 #betterpython #python #readfilepython #readfile #programming #json #jsonpython #pythonindentation #pythoncode #codeinpython
