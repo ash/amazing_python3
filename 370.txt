@@ -1,0 +1,5 @@
+In Python 3.9, we have the new methods `removeprefix` and `removesuffix` that you can apply to strings. In the given example, you can see how the methods remove the corresponding part of the word and return a new string.
+
+These methods simplify the cases when you need to remove the part on the edge of the string: now, you don’t need to compute the length, take a substing using a range etc.
+
+#python3 #python39 #python #strings #textprocessing #nlp #programming #removeprefix #removesuffix #pythonfunctions #pythonmethods #stringmethods #workingwithstring #programmingstrings #coding #developer #easypython #beginnerpython #pythoneducation
