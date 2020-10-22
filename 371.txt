@@ -1,0 +1,3 @@
+There are three built-in string methods that you can use to remove the leading and trailing whitespaces from a string. In this example, the `text` variable contains a string with a few spaces in the beginning and in the end. Compare the output that you get when you call `text.strip()`, `text.rstrip()`, and `text.lstrip()`. In the first case, the spaces are removed on both sides of the string. With `rstrip`, only the trailing whitespaces are removed, and `lstrip` removed the leading whitespaces.
+
+#python3 #python #textprocessing #lstrip $rstrip #pythonfunctions #stringmethods #programming #program #coding #pythonprogram
