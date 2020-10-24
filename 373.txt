@@ -1,0 +1,3 @@
+The built-in `print` function has a few named parameters that you can use to change the way the function generates its output. For example, the `sep` key can be used to set the separator that appears between the items in the output. The default value is a space, so the items are separated by space. But you can change it easily, for example, set to an empty string to print variables without gaps, or set make comma-separated lists if you set it to `,`.
+
+#python #python3 #printpython #helloworld #program #builtinfunctions #functionspython #stdout #programming #coding #program #coders #programmers #learnpython
