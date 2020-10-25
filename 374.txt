@@ -1,0 +1,5 @@
+Did you know that you can use a star before a variable, and that varriable will eat all the values that you pass in an assigmmnet?
+
+In the first example, the construct `a, *b = 1, 2, 3, 4, 5` sets the variable `a` to an integer `1`, but the variable `b` gets a list `[2, 3, 4, 5]`. In the example, it is vice versa: `c` gets a list and `d` receives a single integer, the last in the list.
+
+#python #variables #programming #python3 #coding #program #computerprogram #programmingpython #pythonbasics #bacispython #pythonvariables #assignment #programmer
