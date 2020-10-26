@@ -1,0 +1,3 @@
+In this program, we use regular expressions to check if the given password contains three different type of characters: lowercase letter, capital letters, and digits. The first two checks use a regex with character class: `[a-z]` for lowercase letters and `[A-Z]` for capitals. Digits can be checked with either `\d` or `[0-9]`. (Notice that `\d` also allows Unicode digits outside of the ASCII table such as ٣ or ੩.)
+
+#regex #regularexpressions #python #python3 #password #security #passwordtest #program #ifthenelse #ifelse #ifcheck #pythoncoding #pythonclass #easypython #pythonre
