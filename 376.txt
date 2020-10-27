@@ -1,0 +1,3 @@
+In Python, we have a built-in function `zip`. It gets a number of iterable objects (such as lists) and creates a number tuples that include the elements from each of the input objects. In this example, we combine the letters and the digits to a list of tuples such as `('a', 1)` and `('b', 2)`. Notice that in Python 3 you need to explicitly convert the result of `zip` to a list if you need a list. Otherwise you get an object of the `zip` type (and you thus cannot subscript it, for example, with `[0]`).
+
+#python3 #python #zip #pythonfunctions #functionzip #programming #programminglanguage #pythonlanguage #coding #programinpython #python101 #pythonbasics
