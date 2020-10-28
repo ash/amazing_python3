@@ -1,0 +1,3 @@
+In Python 3.9+, you can merge two dictionaries using set operators. In this example, we have two different dictionaries, `data1` and `data2`, and we combine them together to get a new dictionary `data` that contains the information from both sources. The syntax is very simple: `data1 | data2`. This works starting from Python version 3.9.
+
+#python39 #python3 #python #codepython #pythoncode #python101 #programmingpython #pythonprogram #setoperations #pythonsets #dictionaries #coding #newinpython #newpython #pythonbeginner
