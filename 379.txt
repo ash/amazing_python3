@@ -1,0 +1,5 @@
+This is an update of the previous prograam, where we were looking for the most frequent element in the list of integers. This time, the `statistics` module is used. It exports the `mode` function that does the job and returns the most frequent element from the given list.
+
+The module is built-in, so you don’t need to install it separately.
+
+#statistics #frequency #pythonanalytics #analytics #sorting #algorithms #python #python3 #programming #coding #easypython #pythonschool #pythonacademy #programmer #coder #pythonlanguage #programminglanguage #datamanager
