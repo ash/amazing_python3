@@ -1,0 +1,5 @@
+How to find the most frequent element in a list of items? (The items in the example are integer values but you can think of other data types, such as strings, for example.) The most straightforward way is of course to make a loop and count all the elements using a dictionary.
+
+Another method is demonstrated in this program. First, you convert the list to a set. In the set, you will not have repeating items. In other words, you get a list of all unique items in the list. Then, find the max using the built-in `max` function but with a small addition: `key = data.count`. It will use that value for sorting the items. So, for example, `data.count(30)` returns 1 and `data.count(20)` returns 3, and those two numbers are compared in the end instead of comparing 10 and 20.
+
+#sorting #algorithms #python #python3 #programming #coding #easypython #pythonschool #pythonacademy #programmer #coder #pythonlanguage #programminglanguage
