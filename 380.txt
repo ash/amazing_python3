@@ -1,0 +1,5 @@
+In Python, you can create a function using the `def` keyword but you can also create a lambda function using `lambda`. You can see the difference in the given example. The second function does exactly the same but id requires a single line of code. 
+
+Do not overuse this approach as lambdas have their own areas of usage such as in list comprehensions or in different filter or sort functions.
+
+#python3 #python #lambda #fp #functionalprogramming #codepython #pythonbyexample #learnpython #programmer #developer #easypython #pythonlesson
