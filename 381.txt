@@ -1,0 +1,5 @@
+In this program, you see a real example of using a lambda function. The program first filters and then prints the numbers from the `data` tuple, whose absolute values exceed 3. That is, the elements 1 and 2 will not pass the filter, as well as -2 and -3.
+
+The `filter` function gets two argumnets: the first one is the lambda function that does the check; the second argument is the data. In Python 3, the result of `filter` is an object of the `filter` class, so you need to convert it to a list by calling `list(...)`.
+
+#python3 #lambda #python #functionalprogramming #fppython #pythonprogramming #pythoncode #learnpython #pythonfunctions #lambdaprogramming #code
