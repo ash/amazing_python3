@@ -1,0 +1,3 @@
+This program is a modification of the one in a previous post but this time we are writing to a file, not reading from it. The program creates a file `test.txt.gz`, which will be a gzipped file with some text in it. You open a file as `gzip.open(filename, 'wb')` almost like you open a regular text file, and then print to it using the `write` method. Note that you have to pass a byte literal, not a regular string. Byte literals are prefixed with `b` in Python.
+
+#python3 #python #gzip #zip #gz #pythonfiles #workingwithfiles #pythonmodules #gzipmodule #programming #programminglanguage #python101 #pythontutorial #learnpython #programmer
