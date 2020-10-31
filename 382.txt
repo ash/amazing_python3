@@ -1,0 +1,5 @@
+import gzip
+
+with gzip.open('info.txt.gz') as f:
+    t = f.read()
+    print(t.decode('utf-8'))
