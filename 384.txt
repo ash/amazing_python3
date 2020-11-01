@@ -1,0 +1,7 @@
+Here’s a simple example of using the `zip` built-in function. It takes a few iterable objects (such as lists) and groups them so that the first items of each go to a separate tuple, then the second items from each input list forms another tuple, and so on. In the given example, `zip` receives three lists, but you can pass less or more as easily.
+
+In Python 3, don’t forget to convert the result of `zip` to a list to have a list rather than an object of the `zip` class.
+
+Notice that `zip` here has nothing to do with file archiving :-)
+
+#python3 #python #programming #coding #python #zip #pythonfunctions #programmingpython #easypython #coder #programmer
