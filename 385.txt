@@ -1,0 +1,3 @@
+A bit of hidden knowledge about the `zip` function in Python. You can use it in the opposite direction and unzip the tuples if you use `zip` in combination with the `*` operator. Examine the example, where the `data` list contains pairs (tuples), and after unzipping, we collect separate letters and numbers. Notice that there are two variables on the left side of the assignment operator.
+
+#zip #python3 #python #programmingpython #codingpython #program #codepython #easypython #programmer #python101
