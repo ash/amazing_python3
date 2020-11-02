@@ -1,0 +1,3 @@
+In this program, we are taking a list of numbers (`data`) and print all possible combinations that contain three different items from the list. To simplify the task, the built-in `itertools` module is used. This module contains the `combinations` function, that we actually use. You need to pass an iterable object and the length of the resulting items. And that’s it!
+
+#python3 #python #programming #itarations #iteraotor #pythonmodule #pythonprogramming #easypython #python101 #pythonmodules #statistics
