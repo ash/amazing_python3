@@ -1,0 +1,7 @@
+In this program, we are checking if all the numbers in the list are positive. To do so, we are using the `all` function that returns True if all of its iterable argumnets are true.
+
+To test all items in the list, a list comprehension is used: `for x in data`. For each, the test itself is performed: `x > 0`. Finally, we are printing "Yes" or "No" depending on the output of `all`.
+
+You can also change the condition to test, for example, if the number is biggern than 2: `if all(x > 2 for x in data)`.
+
+#python #python3 #integers #programming #numbers #coding #program #pythontricks #easypython #pythonexplained #program #pythonprogram
