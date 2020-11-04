@@ -1,0 +1,5 @@
+If you need to create a list with a few elements which are the same, use this trick to reduce typing and to make the program cleaner.
+
+The `*` operator in this case is not a multiplication but a repetition operator, which repeats the item the given number of times.
+
+#python #python3 #python101 #pythontricks #pythonlists #pythonbasics #basicpython #programmingpython #python101
