@@ -1,0 +1,5 @@
+Task 1. Write a program that reads a phrase from console, replaces all letters 'a' in it with capital letters 'A', and then prints the result.
+
+In this program, we are using the built-in functions `input` to read text from console and the `replace` method that is applied to the string. It replaces all occurrences of the letter with another letter.
+
+#python #python3 #pythoninterview #interviewpython #programmingpython #codingpython #pythontask #pythonquiz #pythoncode #itinterview #python101
