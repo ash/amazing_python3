@@ -1,0 +1,5 @@
+In Python, there’s a funciton `slice` that returns a slice object. You can use it, for example, when you need to extract a substring from a string or take a part of a list. In the given example, the same variable `my_slice` is used twice for two different strings. In both cases, it returns the same result as you would get via `txt[3:10]`.
+
+The `slice` function can also take the third parameter which corresponds to the step in the range. So, for example, `txt[3:10:2]` is the same as `txt[slice(3, 10, 2)]`.
+
+#python3 #python #programmingpython #easypython #pythontutorial #learnpython #learningpython #codingpython #pythonprogram #slicepython #pythonfunctions #itchallenge
