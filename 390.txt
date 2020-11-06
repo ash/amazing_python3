@@ -1,0 +1,7 @@
+When you use "regular" floating-point numbers, you often suffer from some small errors due to the limitations of float or double representation of the numbers. For example, a classical example is to add up 0.1 and 0.2 and get 0.30000000000000004. Or, 0.1 + 0.2 - 0.3 gives you a very small but still non-zero number 5.551115123125783e-17.
+
+When you need a clean zero, you can work with `Decimal` numbers. There’s a module called `decimal` that offers the class `Decimal`. Note that you pass the number as a string.
+
+As a separate note, when you work with financial computations, you can also think of using pure integers. Say, represent €3.14 as an integer number of cents: 314.
+
+#decimal #ieee #floatingpoint #arithmetics #python #pyhton3 #programmingpython #python101 #sciencepython #pythonforscience #computations #financialpython #pinpython
