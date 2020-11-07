@@ -1,0 +1,5 @@
+In this task, we need to compute the value of the mathematical constant "e". Of course, you can take if from the `math` module as `math.e`, but as an educational task, it is wise to make it using the formula. You can see the formula at the first slide of this post.
+
+The implementation has a loop that runs for the numbers from 1 to 20, and on each iteration, we are computing the factorial by multiplying the current value of the `factorial` variable by the current loop value of `n`. Note that the first item of the series (when `n` is 0) is precomputed: we initialize `e` with 1 already.
+
+#python #python3 #programming #itchallenges #itinterview #pythoninterview #programminginterview #python101 #algorithms #knuth #coding #programmer #pythonschool #pythontasks
