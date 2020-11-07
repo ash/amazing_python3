@@ -1,0 +1,5 @@
+In this program, we are looping over a range from -3 to 3, and printing the result of division: `42 / n`. When the loop variable `n` passes 0, the program should raise an exception about illegal division by 0. But with the shown method, we can suppress the exception. The loop does not continue after the division by 0, but the code after the loop will still be executed.
+
+The other way of doing a similar thing is, of course, using the well known `try` block.
+
+#try #exception #python #python3 #programming #suppress #zerodivision #zerodivisionerror #contaxtlib #pythonlib #pythonlibrary #pythoncode #learnpython #advancedpython
