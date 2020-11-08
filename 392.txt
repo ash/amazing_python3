@@ -1,0 +1,5 @@
+Did you know that you can import the module called `__hello__` which prints the "Hello, World!" message?
+
+Note that in Python 2, the message is a bit different: "Hello, World...".
+
+#python #helloworld #pythonhello #hellopython #helloworldpython #python101 #python2 #python3 #pythonmodules #programming #easteregg #frozenmodule
