@@ -1,0 +1,7 @@
+The task here is to find and print all letters that appear in both input words. For the given examples, "hello" and "world", the common letters are "l" and "o".
+
+First, the words are independently converted to sets, which splits the words into letters and keeps only one copy of each letter. So, if you print the variable `in_a`, you will see `{'l', 'o', 'h', 'e'}`, where "l" appears only once.
+
+Second, make the intersection of the two sets by using the `intersection` set method. And that’s it!
+
+#python #python3 #programming #interviewquestion #pythonbyexample #pythontasks #pythonchallenge #itchallenge #interviewit #easypython #pythoninuse #learnpython
