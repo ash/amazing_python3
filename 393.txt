@@ -1,0 +1,5 @@
+This example illustrate the use of the `reduce` function. It is available in the `functools` module. We are computing the sum of the items in the list (a tuple, actually). Note that this example is mainly for education, as you can solve this task more easily by using the `sum` function, of course.
+
+The `reduce` function calls the function `f` for every item from the iterable `data`, and it uses the result that `f` returns. So, the whole call of `reduce(f, data)` is equivalent to `((((2 + 3) + 5) + 7) + 9)`. Somewhen later we’ll look at a more difficult use case.
+
+#reduce #programming #functionalprogramming #fp #functools #python #python3 #advancedpython #pythonfp #functionalprogrammingpython #learnpython #explorepython #python201
