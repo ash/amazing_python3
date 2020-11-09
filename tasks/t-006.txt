@@ -1,0 +1,7 @@
+The task today is to cound all Christmas days that fall on Sunday in the years between 1900 and 2100 (including both).
+
+We are using the `datetime` module and create a date object with it: `datetime.datetime(year, 12, 25)`. These dates are always December 25 but with different years. Then we determing the week day by calling the `weekday()` method and if it is Sunday (which is 6), you increment the counter. That’s it!
+
+Note that in the range you need to have the right edge one year bigger than your desired last year in the list.
+
+#python #python3 #programming #eulerproject #problemsolving #pythonproblems #pythonchallenge #pythontasks #easypython #learnpython #programmingpython #python101 #datetimte #weekday #pythondates
