@@ -1,0 +1,5 @@
+In this program, we are iterating over two lists in the same loop. Of course, you may use indices and make something like `for n in range(len(greek))`, but if you don’t need to use that index elsewhere, you can go directly loop over the lists together.
+
+"Pack" them together by using the `zip` built-in function, which will create a zip object that contains a list `[('α', 'a'), ('β', 'b'), ('γ', 'g'), ('δ', 'd'), ('ε', 'e')]`. In the loop, we are filling two variables `gr` and `lat`. They receive, correspondently, one letter from `greek` and one letter from `latin`.
+
+#python #loops #python3 #iteration #programming #programmingpython #pythonloops #python101 #pythonschool #learnpython #codingpython #simplepython #easypython #basicpython #pythonbasics
