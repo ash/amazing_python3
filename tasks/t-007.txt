@@ -1,0 +1,7 @@
+Problem: From a list of numbers, find all combinations of three elements, which give the sum between 1 and 2.
+
+One of the ways to try all possible combinations of three numbers that you can form from a given list is to to use the `combinations` function from the `itertools` module. Its arguments are the data object and an integer that represents the size of combinations.
+
+You then loop over the combinations and compute the sum of the elements in it.
+
+#combinations #programmingpython #python #python3 #pythonprogram #codingpython #itproblems #python101 #pythonmodules #programminginterview #creackinginterview #interview #it #usingpython #learningpython #learnpython
