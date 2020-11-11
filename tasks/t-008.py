@@ -1,4 +1,4 @@
-# Integer division withou division
+# Integer division without division
 m = 112
 n = 26
 
