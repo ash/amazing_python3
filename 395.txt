@@ -1,0 +1,7 @@
+In this program, we use the `ChainMap` datatype from the `collections` module. Chain maps on one side are similar to lists of maps but on the other they can treat such chains as "merged" hashes.
+
+Consider the code. There are two dictionaries, `europe` and `asia` that keep the pairs "country code — capital". Then, we create a single `ChainMap(europe, asia)`. Inside the chain, there are still two dictionaries. But you can get all the keys with a single method: `keys()`. Or the values: `values()`.
+
+Even more, you can also print the capital of France as `print(capitals["FR"])` or the capital of India as `print(capitals["IN"])`.
+
+#python #chainmap #python3 #pythoncollections #pythonlibrary #pythonmodules #programmingpython #advancedpython #learnpython #masteringpython #programmer
