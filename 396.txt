@@ -1,0 +1,3 @@
+This program prints 10 different random integer numbers below 20. The problem that it solves is to avoid printing the numbers that repeat. As the whole range is only 20 and we need to print 10 numbers, there’s a big chance to generate the same number more than once. To check if the number was printed already, a set is used. It keeps all the numbers that were printed in the earlier iterations. If the number is already in the set `used`, we do not print it and continue the loop. Also, the set helps us to quickly get the number of the numbers that are already printed: `if len(used) == 10`.
+
+#python #randomnumbers #randint #randrange #python3 #programming #coding #algorithms #python101 #pythonmodules #codingpython #pythonprogram #pythoncode #learnpython
