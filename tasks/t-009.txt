@@ -1,0 +1,5 @@
+In this problem, you have a list of numbers and you have to find all local maxima (or maximums if you prefer). A local maximum is the number that is bigger than both of its neighbours. The first and the last numbers in the list are not maxima.
+
+In the solution, we scan all the indices (or indexes if you prefer) of the data list starting from 1 and ending at `len(data) - 1`. Thus, we ignore the first and the last items by that. Then, we make a test and see if the value at the current position `i` (which is `data[i]`) is bigger than its left `data[i-1]` and right `data[i+1]` neighbour. If that is True, we print and report that we found a local maxumum of that value at that position.
+
+#python #python3 #findmaxima #programmingpython #easypython #pythoninterview #itinterview #programmingchallenge #pythonchallenge #pythonschool #python101 #algorithms #coders #coding #pythonproblems #problemsolving
