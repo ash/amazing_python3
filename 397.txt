@@ -1,0 +1,3 @@
+This program is a modification of the previous program. It generates 10 different random integer numbers. Unlike the previous code, we are having a better use of the `while` loop. Instead of making an infinite loop and breaking the loop with `break`, we’d better put the condition to its place next to the `while` keyword. Notice that we have to negate the previously used condition, as we want to keep the loop running while the size of `set` is smaller than we need. Refer to the description of the previous post to see the main idea behind this program and the usage of a set.
+
+#python #python3 #betterpython #pythonbyexample #usepython #programmingpython #algorithms #randomnumbers #pythonset #pythonloop
