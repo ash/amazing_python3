@@ -1,0 +1,5 @@
+Here is a simple implementaition of a linked list. First, we define the class `Node` that represents the items (nodes) of the list. Each node has its value (`self.value`) and a reference to the next node (`self.next`). Then, we create the head node and set its value to 10. The node is saved in the `head` variable. After than, we create a few more nodes with different values from 20 to 50, create the objects of the `Node` type, and append them to the last item of the current linked list. Notice that on each iteration, the `curr` value points to the most recently created node.
+
+In the second part of the program, we traverse the list and print the values in the nodes. Again, we start with the `head` element, and then set `curr` to the next node by reading the `curr.next` attribute of the current node. When `curr.next` becomes `None`, we reached the last node and thus can stop.
+
+#linkedlist #algorithms #programming #python #coding #python3 #pythonalgorithms #learnpython #usepython #pythonscnool #codingpython #pythonprogram #pythonbyexample
