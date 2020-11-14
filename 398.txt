@@ -1,0 +1,7 @@
+In this program, we are reading currency exchange rates from a public API service https://api.exchangeratesapi.io/latest?base=EUR and then convert 1 EUR to 1 USD.
+
+The program uses `urllib.request` library (note that you have to import `urllib.request`, not just `urllib`). We then open the given URL and read data from it. As the API point returns data in a JSON format, we use another Python module, `json`, to parse it. The value in the `data` variable is a dictionary, whose values we can access as with any other regular dictionary.
+
+Notice that the URL in the given example is split into two parts and concatenated with `+\` just to fit the line width into the screen. In real program, you can type it in a single line, of course. 
+
+#python #programming #python #usdeur #exchangerate #publicapi #json #pythonjson #jsonpython #pythoncurrency #urllib #pythonlibrary #pythonapi #workingwithapi #pythonschool #learnpython
