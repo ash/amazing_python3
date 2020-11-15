@@ -1,0 +1,9 @@
+Here, the three different methods to get a fractional part of a number are shown. For the input number 10.75, the expected result of the program is to print 0.75.
+
+In the first method, the modulo operator is used: `number % 1`. In the second method, the integer part of the number is subtracted: `number - int(number)`. Note that `int(number)` only takes the integer part and does not round the number.
+
+In the third method, the function of the `math` module is used: `math.modf(number)`. The function returns a two-item tuple with the fractional and integer parts of the number. As we are going to ignore the integer part, the dummy variable `_` is used.
+
+When working with this code, don’t forget that floating-point arithmetics is not 100% precise and for some input numbers you can get numbes such as `0.2599999999999998`.
+
+#python #python3 #floatingpoint #fpa #programming #pythoninterview #pythonmath #programmingpython #learnpython #pythonschool #easypython #python101

@@ -1,0 +1,7 @@
+This programs prints the so-called Pascal triangle. The first row of it has a signle value `1`, the second row — two values `1` and `1`. All items in the following rows are the sums of the two numbers above them. So, the central number on the third line is `2` as it is the sum of two `1`s above. The new two elements are always `1` at the beginning and at the end of the line.
+
+The program reads the number of lines from command line, and then prepares the rows. Each row is saved in the `output` list as a string. This is needed so that we are able to determine the length of the last string and center the rows in the output.
+
+Visit https://en.wikipedia.org/wiki/Pascal's_triangle to learn more about the Pascal`s triangle.
+
+#python #python3 #pascal #pascaltriangle #itproblems #pythonschool #learnpython #codingpython #itinterview #pythoninterview #codinginterview #codingpractice

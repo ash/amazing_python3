@@ -1,0 +1,3 @@
+Check if two rectangles are overlapped.
+
+The rectangles are given by the coordinates of their two non-adjacent corners: that is, top left + bottom right or bottom left and top right. Thus, the program receives four numbers and prints "Overlap" or "Do not overlap".

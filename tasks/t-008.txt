@@ -1,4 +1,4 @@
-In this task, the goal is to implement integer division but without using the division operator. So, neigher `//` nor `/` are allowed.
+This is what you can get during an interview! In this task, the goal is to implement integer division but without using the division operator. So, neigher `//` nor `/` are allowed.
 
 One of the possible solutions is to use subtraction and count how many times you can subtract one number from another. In the loop, we reduce the value of `m` by `n` on each iteration. Simultaneously, the value of `r` is incremented. As soon as the number becomes small enouth, the loop is stopped. The value of `r` after the loop shouws how many times we could subtract `n` from `m`, so it is the integer part of the division `m` by `n`. 
 
