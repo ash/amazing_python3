@@ -1,3 +1,5 @@
-Check if two rectangles are overlapped.
+The task is to read an integer and print it reversed. That means to print the digits of the number in reversed order but you have to keep the possible sign of the number. So, 1234 should become 4321, and -1234 becomes -4321.
 
-The rectangles are given by the coordinates of their two non-adjacent corners: that is, top left + bottom right or bottom left and top right. Thus, the program receives four numbers and prints "Overlap" or "Do not overlap".
+In this program, we are reading a number from command line, then detect its sign by comparing the number to 0. Then, the number is converted to a string, which is then reversed by using a range with negative step: `str_n[::-1]`. Finally, we convert the string back to a number and multiply it to the sign (which is either +1 or -1).
+
+#python #pythonproblems #interviewproblems #interviewpython #pythoninterview #programmingpython #pythonschool #python3 #codingpython #pythoncode #easypython #algorithm
