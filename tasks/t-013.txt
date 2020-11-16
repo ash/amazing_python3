@@ -1,0 +1,8 @@
+A few different approaches to get the sign of a number are demonstrated here. The goal is to get -1 for negative numbers, 0 for zero, and 1 for positive numbers.
+
+a) Use a chain of comparisons with `if` and `else`. b) Subscript a tuple `(1, -1)` with the index 0 or 1 that you get from a Boolean condition `x < 0`. Also, returns 0 if `x` is 0. c) Using the `sign` function from the `numpy` module. d) Using a tricky formula that makes two Boolean checks and then uses them as numbers so you receive 0, -1, or 1 in the end. e) In Python 2.7, there was a `cmp` function that you could use in this task too.
+
+You can choose whatever method you prefer.
+
+#python #python3 #programming #coding #numbers #numpy #workingwithnumbers #pythonarithmetics #pythonfunctions #python101 #pythonnumpy #learnpython
+
