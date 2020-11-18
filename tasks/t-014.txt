@@ -1,0 +1,3 @@
+The problem here is to find the minimum and maximum values of a data list without using built-in functions such as `min` and `max`. The solution is to have two variables that keep the currently found minimum and maximum value and loop over the data list to determin if the corresponding element is either smaller or bigger than the current min or max. If such an element is found, we update the variables. Notice how we initiase the variables with the value of the first item of a list.
+
+#python #python3 #interviewproblems #programmingpython #pyhton101 #usingpython #codepython #pythonexam #pythonschool #pythontest #usepython #itinterview #pythoninterview #algorithm #minmax
