@@ -1,0 +1,7 @@
+In this program, we are crating an audio file, audio.wav, where, when you play it, you’ll here a tone signal of 440 Hz lasting for 2 seconds. 440 Hz is the note A4 (or "La"), and it is one of the components of the landline phone dial tone (well, it differs in different countries).
+
+But back to Python. The program uses the `wave` module which is (that’s great!) is a part of the standard library, so you don’t need to install the module separately. Then, we set some parameters of the future wav file such as sample rate (44.1 kHz) and data size (2 bytes). After that, in a loop, we generate a sine wave so that it gives the desired 440 Hz after playing back. Each number is then fit to the range of 2-byte integer and then is saved to a binary file as a `<h` number, which is a little-endian 16 bit number.
+
+After running the program, you get "audio.wav" in your directory, which you can play with any audio player you have.
+
+#python #pythonsound #pythonaudio #audiopython #python3 #pythonstandardlibrary #pythonlibrary #programmingpython #advancedpython #musicpython #pythonmusic #tonegenerator #440hz #codepython #learnpython #pythonschool
