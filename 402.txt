@@ -1,0 +1,3 @@
+Creating your own Python modules is easy! What you need is to come up with a module name and create a file such as `mymodule.py`. This is a regular Python file with different functions. You can now use those functions in your main program. First, import the module as you do it with modules from the standard library or with 3rd party modules installed with pip3: `import mymodule`. And now you can access the functions from the module: `mymodule.myfunction()`. So simple!
+
+#pythonmodules #pythonlibrary #usingpython #python3 #python #python101 #edupython #pythonedu #pythoneducation #pythonschool #easypython #learnpython #pythonbasics #basicpython #pythonfoundations
