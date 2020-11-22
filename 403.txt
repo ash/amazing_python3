@@ -1,0 +1,9 @@
+Redis is an in-memody key-value storage, which can replace SQL databases or caching services in many cases. Python can work with Redis via a module named `redis`. Install it with pip: `pip3 install redis`. 
+
+To connect to a Redis server, call `redis.Redis()`. It also takes a few paramters such as `host` and `port` if you need to set them to non-default values.
+
+Then, we save a value under the `my:key` key, and later read it. This is the simplest two methods in Redis. We could cover more in future posts.
+
+To run this program, you need to have Redis itself installed and running, of course. Refer to https://redis.io to see installations instructions for your operating system.
+
+#redis #redisio #pythonredis #python3 #nosql #keyvalue #database #python #programmingpython #advancedpython #realpython #datascience
