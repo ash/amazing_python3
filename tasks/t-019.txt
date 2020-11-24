@@ -1,0 +1,7 @@
+The problem is to take an array of numbers and reverse it in-place. It means that you cannot create a new array and fill it with the new sequence. In the end, you have to get the same variable containing the original data in reversed order.
+
+In the shown solution, we scan the left half of the array and swap the items. We actually even don’t use any temporary variables to swap the items and use assignments of the form `x, y = y, x`.
+
+Of course, you can use the built-in method `reverse()` or scan the array backwards by uning a slice with negative step `data[::-1]`. But if you will get the task to rervers the list during your Python interview, you now know how to do it :-)
+
+#python #python3 #programming #algorithms #interviewquestions #programmingqa #programming101 #python101 #coding101 #algorithm101 #pythonproblems #easypython #simplepyton #pythonforyou #pythonjobs
