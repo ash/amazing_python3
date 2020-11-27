@@ -1,0 +1,3 @@
+If you need to randomize the order of elements in a list, there’s nothing simpler than to use the `shuffle` function from the `random` module from the standard library. In the given example, you can se how to use it. Just pass the list to `shuffle`, and the list will be sorted in place. Notice that the original list is modified after this.
+
+#python #python3 #pythonlibrary #programmingpython #codingpython #library #programming #codingpython #pythonrandom #randomnumbers #shuffledata #randomdata #randomize #programming #stochastic #python101 #learningpython #pythonschool
