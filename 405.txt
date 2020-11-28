@@ -1,0 +1,5 @@
+In this program, we are using NumPy to increment the elements of an array of integers. Consider this example as a building brick for more complex programs involving NumPy.
+
+In NumPy, you can operate with the whole array as with a single unit. So, `a += 1` will add 1 to all elements of the array `a`.
+
+#python #python3 #numpy #programmingpython #numpybyexample #datamanipulation #numpyarray #pythonnumpy #numpypython #pythonarrays #numpy101 #easynumy #learnnumpy #coder #programmer
