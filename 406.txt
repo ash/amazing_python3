@@ -1,0 +1,5 @@
+To delete a file, use the `remove` function of the `os` module from the standard library. Pass the name of the file (or a corresponding path) to the function, and you are done!
+
+Notice that if there were no file at the moment you tried to delete it, you get an exception `FileNotFoundError`.
+
+#python #FileNotFoundError #python3 #pythonos #pythonlibrary #pythonstandardlibrary #codingpython #usingpython #beginnerspython #advancedpython #pythonschool #python101 #pythonbyexample
