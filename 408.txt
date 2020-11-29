@@ -1,0 +1,5 @@
+Here is an example of multiple inheritance in Python. You’ve got two base classes, `A` and `B`, which define their own methods `a()` and `b()`. Then, you create a child class `C` which is a child of both `A` and `B`. For brevity, our class `C` does not implement any additional functionality (so you have to add `pass` as Python will complain otherwise).
+
+When you create the object of class `C`, that object will be able to use method defined in all its parent classes. So, both `obj.a()` and `obj.b()` are valid calls and are dispatched to the methods defined in the corresponding base classes.
+
+#python #oop #pythonoop #ooppython #objectorientedprogramming #python3 #python101 #easypython #pythonwitheasy #learnpython #pythonoop101 #python101
