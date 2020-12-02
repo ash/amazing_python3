@@ -4,6 +4,6 @@ The structure of input lines is the following. The digits in the text define how
 
 What we do in the program, is first reading the whole files and save it to the `lines` list. Then, each line is matched agains a regular expression `(\d+)-(\d+) (\w): (\w+)`, which extracts all the meaningful parts of the line. Those parts, which are captured by parentheses, are accessible by calling the `m.groups(...)` method with the number of the group. So, `m.group(1)` corresponds to the first number in the string, which is the minimum number of occurrences of letter, which sits in `m.group(3)`. Finally, a simple `if` check with a chained conditions and incrementing the counter of the lines matching the conditions.
 
-If you want to lurk into the second part of the problems, find it here: https://github.com/ash/adventofcode/tree/main/2020/02
+If you want to lurk into the second part of the problem, find it here: https://github.com/ash/adventofcode/tree/main/2020/02
 
 #python #adventofcode #adventofcode2020 #aoc2020 #programming #coding #python3 #algorithms #textprocessingpython #pythonschool #learnpython #pythoncode #code #itdailypractice #pythonpractis #pythondrills
