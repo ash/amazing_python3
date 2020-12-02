@@ -1,0 +1,7 @@
+A single backslash that you can see in some Python program is an indicator that helps the Python interpreter to understand that you are going to continue your code on the next line. This trick is required when, for some reason, you want to split the line here and now, but the syntax construction is not yet finished. 
+
+In the shown program, I split the `for item in data.split(','):` into two strings. Python would consider that a syntax error. To prevent the error, add a backslash at the place where you broke the line. It will allow Python to seek for the continuation of the current construction on the next line and do not emit an exception. 
+
+Such a technique may be useful if you, for example, want to add some comments to separate parts of the current line of code. Or, if your line of code becomes too big and you want to keep it reasonably shorter. In many cases, of course, you can try to rearrange your code, for example, introduce a new variables or functions, to avoid long lines of continues code.
+
+#python #python101 #python3 #pythoncoding #programmingpython #learnpython #basicpython #basicsofpython #pythonbasics #code #usingpython #pythoninuse #pythonbyexample #itinterview #devpython
