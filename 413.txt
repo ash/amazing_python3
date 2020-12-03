@@ -1,0 +1,7 @@
+Here is a program that takes a list of lists of integers and makes a single flat list out of this data. By flattening we mean that all the elements in the resulting array are located on the same depth of 1.
+
+The process is simple: first, loop over the first-level internal lists, then list over the elements in those lists. Finally, append the deepest item to the `result` list. 
+
+If you have a construction with more levels, you probably would like to use a recursive function.
+
+#python #lists #pythondatatype #python3 #pythonlists #programming #idquiz #itinterview #pythoninterview #advancedpython #python101 #pythonpractice #codingpyton #pytoncode #pythonprogram
