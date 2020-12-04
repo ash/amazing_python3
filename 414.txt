@@ -1,0 +1,3 @@
+In Python 3, you can control which parameters of a function can be passed as positional argumnets only. Add a slash as a fake function parameter. All the parameters before it can be only passed positional. Those that are listed after the slash, can be passed both as positional as well as named parameters.
+
+#python #python3 #python39 #pythonsyntax #python101 #newpython #modernpython #pythonfunctions #programmingpython #pythonschool #learnpython #easypython #codingpython #programmer #programming
