@@ -1,0 +1,5 @@
+In this program, we are solving an interview task to replace all spaces in a text file with double spaces. The solution is quite straightforward. First, open the file for reading and then read all text from it and save it in the `text` variable. Then, make a global replacement by calling the `replace` method with two arguments. Finally, print the result. 
+
+During the interview, you may also mention that it would be good to check if the file exists or if the `f.read()` call put something to the `text` variable. The program should be able to detect a situation when there is no file to avoid further manipulations with the text.
+
+#python #python3 #itpython #interviewpython #pythoninterview #interviewprogramming #developerinterview #codingpython #usingpython #programmingpython #pythonschool #readyforitinterview
