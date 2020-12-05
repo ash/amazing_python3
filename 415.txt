@@ -1,0 +1,7 @@
+A couple of days ago a couple of readers suggested this awesome trick to flatten a list of lists.
+
+What you need it is to call `sum` with the start value `[]`, in other words, the start value is an empty list. Having that start value, Python will apply the `+` operator to that start element and all the items of the `data` list. So, we’ve got additions of lists, which in Python means that we concatenate their items. And that’s exactly what we needed!
+
+Of course, this particular trick works for flattening two-dimentional lists only.
+
+#python #python3 #listoperations #pythondata #datastructure #pythonprogramming #codingpython #advancedpython #pythontricks #coolpython #coolprograming #programmingtricks #trickypython #flattendlists
