@@ -1,0 +1,3 @@
+In this program, we are using the `pathlib` module to read the content of a text file. This module is available since Python 3.4. The beauty of the module is that its `read_text()` method not only reads the data but also closes the file. So, you don’t have to care about closing it yourself or using a `with` block.
+
+#python3 #python #programming #pathlib #usingpython #pythonprogramming #programming #newpython #pythontips #pythontricks #python101 #codingpython #pythoncode #coding #pythonqa
