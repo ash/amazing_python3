@@ -1,0 +1,7 @@
+In this example, the simplest use of the `abc` module is demonstrated. This module offers support for creating abstract classes in Python.
+
+Abstract classes are classes that you are not allowed to instantiate. In the example, we have class `C` with an abstract method `hello`. This method is explicitly marked abstract by the `@abc.abstractmethod` decorator. In this case, an attempt to create an instance of class `C` fails.
+
+To create an object, you have to complete the definition of the abstract method. So, you can define a derived class `D` based on `C` and give its own definition of the method. Having that done, you are fine in creating an object of `D`.
+
+#abstractmethod #oop #ooppython #python #pythonoop #python3 #programmingpython #advancedpython #abstractclass #pythonobjects #pythonschool #usingpython #pythontricks
