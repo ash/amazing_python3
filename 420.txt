@@ -1,0 +1,5 @@
+In this program, we are taking a filename and extracting its extension. For this task, the filename is first split by dots, and then the last part of that list is taken.
+
+In the cases when the filename has no other dots, this methods is very simple and efficient. If you have to work with files that do contain more dots in their names, the method will still work, but will be less efficient as it splits the filename into too many pieces. In this case, it’s better to find the last dot and take a substring from there.
+
+#python #python3 #filenames #textprocessing #python101 #pythonschool #pythonfiles #workingwithfiles #programming #programmignpython #programmer #developer #itpython #simplepython
