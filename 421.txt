@@ -1,0 +1,3 @@
+To parse an URL, or, in other words, to split it into meaningful parts, you can use the `urllib.parse` library. Notice that you have to import `urllib.parse` and not just `urllib`. Pass the URL to the `urlparse` function, which will return an object of the `urllib.parse.ParseResult` type with a number of fields. In the program, you can see how to refer to different parts of the parsed object.
+
+#python #pythonlib #python3 #urlparsing #parseurl #url #programming #pythonlibrary #usingpython #pythonforweb #codingpython #programmer #pythonschool #pythonbasics #advancedpython #urlparse
