@@ -1,0 +1,3 @@
+F-strings are a great tool to fill the placeholders in a string. It is also possibele to access the values of a dictionary directly inside the placeholders. Consider an example, were we’ve got a dictionary with the name and the age of a person. Inside the f-string (a string prefixes with `f`), we are referring to the the fields using regular syntax `data['name']` and `data['age']`.
+
+#fstring #fstrings #python #python3 #programmingpython #usingpython #python101 #templates #stringtemplataes #programmingwitheasse #easypyton #everydaypython #modernpython #codingpython3

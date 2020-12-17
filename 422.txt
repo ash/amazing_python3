@@ -1,0 +1,5 @@
+In this program, we have created a string template `Hello, $name!` that contain a placeholder `$name` which can be replaced with a given string. We then use the `substitute` method and pass the named parameter to it to make a substitution.
+
+Use the `string.Template` class that comes in a standard library.
+
+#python #textprocessing #python3 #pythonlibrary #stringtemplate #templatingsystem #programming #python101 #pythonschool #advancedpython #codingpython #coding #coder #programmer
