@@ -1,0 +1,5 @@
+Sometimes it happens that a built-in function is accidentally redefined in the program or in a module your program use. In this case, you can access the one of Python using the `builtins` module.
+
+In this program, we create our own function `sum`, which hides the built-in `sum` function and produces a result that we do not expect. Of course, it is better to rename the function if you did not mean to break the behaviour of the built-in function, but if you cannot (say, you are working with a library), you can use the native function as `builtins.sum`.
+
+#python #python3 #python101 #advancedpython #pythonschool #programming #programmingpython #usingpython #strangepython #carefullpython #pythonwithcare
