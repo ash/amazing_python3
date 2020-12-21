@@ -1,0 +1,7 @@
+In this program, we are testing the list of filenames against a pattern `index*.txt` in the format that Unix shells are using. A star corresponds to any characters, a question mark stands for a single character. A characters in square brackets are options for a single character.
+
+There is a built-in module `fnmatch` that offers some functions including `fnmatch.fnmatch`. It takes the filename (as a string) and a mask and returns a Boolean result whether the filename matches the pattern.
+
+Notice that Unix shell filename patters are not regular expressions.
+
+#unixshell #bash #commandline #python #python3 #pythonlibrary #fnmatch #filespython #pythonfiles #workingwithfiles #pythonprogramming #programpython #pythonschool #advancedpython #devopspython
