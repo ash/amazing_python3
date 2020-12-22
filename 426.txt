@@ -1,0 +1,7 @@
+This program lists all files and all directories located in the current directory. It uses the `listdir` function from the `os` built-in module.
+
+When you call `os.listdir('.')`, you get a list of all items in the current directory, which includes both file names and directory names that are located here. `'.'` refers to the current directory.
+
+You don’t need to install the `os` module, as it is included in Python distribution.
+
+#python #python3 #programming #pythonos #devopspython #devops #programmingpython #learningpython #python101 #pythonlibrary #usingpython3 #codingpython #coding #program
