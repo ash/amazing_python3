@@ -1,0 +1,7 @@
+Python’s built-in module `dbm` allows using the so-called Unix databases, or "DBM databases". They are usefule if you want to organise a simple storage of some data locally on a disk.
+
+In the program, two parts are shown: first, we open a database and write some values there. Then, the database is open again and the values are read from there.
+
+The `'c'` mode opens the base for both reading and writing. It also creates it if it does not exist so far. In the rest, using the `db` variable is similar to using Python dictionaries.
+
+#dbm #unixdbm #pythondbm #python #python3 #programming #coding #python3 #coding #pythonbyexample #databases #database #dbmpython #usingpython #pythonschool #python101 #advancedpython
