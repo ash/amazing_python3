@@ -1,4 +1,4 @@
-Did you known that interactive Python shell has a built-in help that you can use to get descriptions of the various bits of data type, systems, and modules?
+Did you known that interactive Python shell has a built-in interactive help that you can use to get descriptions of the various bits of data type, systems, and modules?
 
 To enter the help, type `help()` and then type the topic you want to learn about, for example: `int` for the information about integers, or `*` for operators, or `dir` for this function reference, or `random` for module help.
 
