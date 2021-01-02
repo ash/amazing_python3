@@ -1,0 +1,3 @@
+The "rjust" method helps to justify a string to the given width. In the program, we are printing a table with one column that contains some numbers. To look better, the nubmers are adjusted to the right side of the column. The first parameter of the "rjust" method is the width. 
+
+#rjust #python3 #python #programmingpython #programming101 #coding #textprocessing #printingtables #pythonschool #pythonbyexample #pythonexcel
