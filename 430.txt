@@ -1,0 +1,7 @@
+The problem: you are given a list of lists of integers, and you need to find how many times `5` appears in this data structure. There maximum depth of nested lists is 1.
+
+The solution: flatten the lists to a single list that contains all the numbers and then apply the `count` method to it.
+
+In this solution, a trick `sum(data, [])` is used to flatten the lists. See more about it at https://www.instagram.com/p/CIbnomKgJTj/
+
+#python3 #python #pythoninterview #pythonqa #pythonprogramming #programming #programmingpython #codingpython #pythonschool #pythonexam #easypython #pythontricks #python101 #datastructures #dev #it #itexam #codingexam
