@@ -1,0 +1,5 @@
+To concatenate the elements of the list, use the built-in method `join`. Unlike what you may expect in other languages, in Python, you call `join` on the separator, not on the list of items. 
+
+So, to get the string `abcd` from a list of characters `['a', 'b', 'c', 'd']`, you do this: `''.join(items)`. If you want to have spaces between the letters, type: `' '.join(items)`.
+
+#python3 #python #pythonstrings #stringconcatenation #programmingpython #pythonprogramming #codingpython #pythoncode #pythonschool #python101 #usepython #pythonforbeginners #beginnerpython #elementarypython #easypython
