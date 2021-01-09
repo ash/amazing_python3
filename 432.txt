@@ -1,0 +1,5 @@
+In this program, there is a mistake. We created a dictionary with a couple of elements, and then try to add the third element. But instead of `=`, a colon `:` was typed. Python did not report about any errors, neither compile-time, nor at runtime. But the third element, of course, was not added to the dictionary.
+
+What happened, how do you think?
+
+#python #pythonquiz #python3 #pythontask #pythonqa #pythoninterview #itinterview #interviewquestion #trickypython #pythontricks #codepython #usepython #programmingpython3 #programmer #itquiz
