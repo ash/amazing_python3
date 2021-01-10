@@ -1,0 +1,5 @@
+In the previous post, there was a construction `d['c'] : 300`, which is a wrongly used type annotation.
+
+In Python, you can create a variable and add a type hint to it, for example: `s: str = 'a'`. Here, `str` is its annotated type. In the case of `d['c'] : 300`, the hint type is assigned to the value of `d['c']`, which even did not exist at that point.
+
+#python3 #python #programming #pythonqa #python101 #typesystempython #pythotyptes #pythoncoding #programmingpython3 #usingpython #codingpython #pythonforyour
